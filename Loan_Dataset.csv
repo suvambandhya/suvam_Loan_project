@@ -1,0 +1,773 @@
+Loan ID,Customer ID,Customer Name,Gender,Age,Employment Type,Monthly Income (INR),Credit Score,Region,Branch City,Loan Type,Loan Amount (INR),Interest Rate (%),Tenure (Months),Disbursement Date,EMI (INR),Loan Status
+LN-5222,CUST-10406,Isha Verma,Female,44,Salaried,29300.0,630.0,West,Ahmedabad,Gold Loan,168000.0,9.77,18,08/01/2024,10070.0,Active
+LN-5536,CUST-10057,Simran Malhotra,Female,40,Business Owner,130200.0,659.0,North,Lucknow,Home Loan,4429000.0,9.18,258,2021-08-04,39400.0,Active
+LN-5085,CUST-10476,Kavya Nair,Female,30,Salaried,210000.0,673.0,East,Guwahati,Auto Loan,343000.0,10.65,36,04-May-2021,11170.0,Closed
+LN-5730,CUST-10085,Krishna Patel,Male,37,Self-Employed,117500.0,757.0,South,Kochi,Education Loan,402000.0,10.36,78,18-Nov-2021,7100.0,Active
+LN-5719,CUST-10395,Saanvi Chauhan,Female,57,Salaried,245500.0,674.0,South,Hyderabad,Personal Loan,209000.0,11.74,60,06-Feb-2023,4620.0,Active
+LN-5565,CUST-10196,Vivaan Malhotra,Male,43,Salaried,218000.0,746.0,West,Mumbai,Gold Loan,236000.0,9.58,30,07/12/2022,8880.0,Active
+LN-5570,CUST-10395,Shreya Mehta,Female,51,Salaried,237300.0,597.0,North,Lucknow,Business Loan,3160000.0,14.59,24,28-Dec-2023,152600.0,Active
+LN-5376,CUST-10191,Amit Verma,Male,52,Business Owner,196900.0,561.0,East, PATNA ,Home Loan,3332000.0,9.63,120,03/18/2021,43350.0,Active
+LN-5027,CUST-10343,Ananya Reddy,Female,26,Self-Employed,181700.0,771.0,South,Hyderabad,Personal Loan,142000.0,15.4,60,13/02/2021,3410.0,Active
+LN-5632,CUST-10414,Saanvi Reddy,Female,56,Self-Employed,111500.0,569.0,North,Lucknow,Home Loan,3678000.0,9.01,192,07/12/2024,36230.0,Active
+LN-5339,CUST-10155,Priya Bhat,Female,25,Business Owner,102900.0,619.0,South,Kochi,Auto Loan,1587000.0,10.84,72,2021-11-10,30080.0,Active
+LN-5583,CUST-10316,Tanya Malhotra,Female,55,Salaried,220600.0,590.0,North,Jaipur,Personal Loan,722000.0,12.5,18,01-Apr-2022,44200.0,Closed
+LN-5308,CUST-10570,DIYA BOSE,Female,44,Self-Employed,93900.0,674.0,south,Bengaluru,Business Loan,4845000.0,12.75,30,22-May-2023,189450.0,Active
+LN-5666,CUST-10079,Priya Rao,Female,42,Salaried,92300.0,680.0,West,Surat,Personal Loan,273000.0,12.45,12,20/07/2022,24310.0,Closed
+LN-5553,CUST-10393,Rohan Rao,Male,34,Salaried,204300.0,600.0,South,Kochi,Business Loan,3065000.0,12.87,42,30/07/2024,91030.0,Active
+LN-5451,CUST-10269,Diya Nair,Female,53,Salaried,195200.0,744.0,south,Chennai,Personal Loan,204000.0,13.38,18,12-Aug-2023,12570.0,Active
+LN-5576,CUST-10318,Amit Das,Male,43,Self-Employed,237700.0,788.0,North,Chandigarh,Gold Loan,146000.0,7.73,18,06-May-2024,8620.0,Active
+LN-5210,CUST-10225,Vikram Pillai,Male,44,Salaried,202000.0,630.0,South,Bengaluru,Gold Loan,118000.0,9.29,30,09/08/2022,4420.0,Active
+LN-5738,CUST-10457,Sandeep Joshi,Male,52,Self-Employed,173800.0,612.0,South, CHENNAI ,Gold Loan,304000.0,9.97,36,2021-12-06,9800.0,Closed
+LN-5367,CUST-10062,SNEHA CHATTERJEE,Female,30,Salaried,54600.0,758.0,South,Hyderabad,Gold Loan,391000.0,8.24,18,01/10/2021,23170.0,Closed
+LN-5749,CUST-10366,Manish Mehta,Male,25,Salaried,86300.0,565.0,East,Bhubaneswar,Gold Loan,487000.0,7.07,12,01-Apr-2021,42150.0,Closed
+LN-5328,CUST-10146,Rajesh Iyer,Male,37,Self-Employed,248100.0,652.0,East, KOLKATA ,Gold Loan,163000.0,9.82,18,03/08/2021,9780.0,Closed
+LN-5506,CUST-10252,Pooja Patel,Female,24,Self-Employed,105400.0,673.0,West,Pune,Personal Loan,70000.0,11.93,54,2024-09-07,1680.0,Active
+LN-5213,CUST-10014,Krishna Malhotra,Male,36,Self-Employed,177000.0,698.0,South,Bengaluru,Business Loan,4472000.0,15.37,54,08/29/2023,115240.0,Defaulted
+LN-5227,CUST-10387,Aditya Malhotra,Male,61,Self-Employed,211900.0,804.0,West,Surat,Personal Loan,795000.0,11.06,30,2024-09-24,30450.0,Active
+LN-5191,CUST-10558,Sai Sharma,Male,43,Salaried,128800.0,658.0,West, AHMEDABAD ,Auto Loan,795000.0,10.83,36,22/10/2024,25960.0,Active
+LN-5755,CUST-10251,Kritika Pillai,Female,36,Salaried,168400.0,669.0,East, GUWAHATI ,Personal Loan,737000.0,11.46,12,2024-10-24,65300.0,Active
+LN-5731,CUST-10472,Ishaan Gupta,Male,40,Self-Employed,233400.0,786.0,East,Kolkata,Gold Loan,130000.0,8.06,12,04/20/2021,11310.0,Closed
+LN-5193,CUST-10245,Vikram Kapoor,Male,40,Self-Employed,187800.0,786.0,North,Jaipur,Business Loan,899000.0,15.85,78,23-Mar-2023,18530.0,Active
+LN-5268,CUST-10533,Divya Gupta,Female,43,Self-Employed,116100.0,,East,Bhubaneswar,Gold Loan,401000.0,7.51,36,02/01/2024,12480.0,Active
+LN-5372,CUST-10484,Reyansh Das,Male,27,Salaried,246200.0,584.0,North, LUCKNOW ,Gold Loan,158000.0,10.25,24,01/02/2023,7310.0,Active
+LN-5278,CUST-10067,Shreya Kapoor,Female,44,Self-Employed,49700.0,636.0,South,Chennai,Auto Loan,457000.0,11.04,48,22/04/2023,11820.0,Active
+LN-5349,CUST-10340,Anika Kapoor,Female,28,Business Owner,181900.0,665.0,South,Kochi,Home Loan,6311000.0,8.33,228,08/04/2022,55210.0,Active
+LN-5392,CUST-10070,NEHA IYER,Female,62,Self-Employed,113700.0,809.0,South,Kochi,Education Loan,2316000.0,11.62,108,2022-02-19,34670.0,Active
+LN-5701,CUST-10061,Ananya Pillai,Female,36,Salaried,151400.0,605.0,North,Jaipur,Auto Loan,1790000.0,11.08,42,2022-11-23,51610.0,Defaulted
+LN-5122,CUST-10260,Aditya Gupta,Male,44,Self-Employed,227900.0,716.0,East,Patna,Home Loan,6645000.0,8.96,150,02-May-2023,73790.0,Active
+LN-5695,CUST-10452,Rahul Iyer,Male,34,Business Owner,82800.0,633.0,East,Kolkata,Education Loan,1602000.0,10.04,48,02-Jun-2024,40660.0,Active
+LN-5438,CUST-10567,Aditya Pillai,Male,38,Salaried,88100.0,703.0,West,Mumbai,Business Loan,334000.0,15.37,24,04/05/2021,16250.0,Closed
+LN-5572,CUST-10158,Simran Chatterjee,Female,44,Salaried,42800.0,561.0,East,Patna,Gold Loan,219000.0,9.52,36,23-Jun-2023,7020.0,Written Off
+LN-5494,CUST-10301,KARAN VERMA,Male,53,,161600.0,694.0,South,Hyderabad,Business Loan,4838000.0,17.06,84,28-Sep-2022,99040.0,Active
+LN-5739,CUST-10529,Krishna Chauhan,Male,25,Salaried,142400.0,773.0,South,Bengaluru,Gold Loan,362000.0,9.76,18,09-Jun-2022,21700.0,Closed
+LN-5086,CUST-10083,Arjun Chatterjee,Male,43,Salaried,155600.0,641.0,South,Chennai,Business Loan,3018000.0,14.23,66,10-Nov-2021,66190.0,Defaulted
+LN-5184,CUST-10055,Amit Pillai,Male,32,Business Owner,213400.0,790.0,North,Jaipur,Auto Loan,1404000.0,11.09,30,01/07/2021,53800.0,Closed
+LN-5185,CUST-10277,Divya Gupta,Female,60,Salaried,238300.0,755.0,North, LUCKNOW ,Auto Loan,1670000.0,11.59,72,18-Nov-2022,32290.0,Active
+LN-5499,CUST-10525,Neha Das,Female,62,Salaried,75000.0,731.0,North,Jaipur,Home Loan,7163000.0,8.62,246,10/01/2022,62140.0,Active
+LN-5163,CUST-10420,VIHAAN IYER,Male,24,Salaried,154700.0,,West,Mumbai,Personal Loan,704000.0,11.51,48,2024-07-13,18370.0,Active
+LN-5266,CUST-10476,Sandeep Mehta,Male,62,Business Owner,168600.0,741.0,East,Patna,Personal Loan,460000.0,11.63,42,2022-04-07,13380.0,Active
+LN-5233,CUST-10544,VIKRAM DAS,Male,61,Salaried,193100.0,775.0,North,Lucknow,Personal Loan,139000.0,12.28,42,2021-04-02,4090.0,Closed
+LN-5614,CUST-10419,Vikram Nair,Male,35,Self-Employed,,685.0,North,Lucknow,Gold Loan,405000.0,7.67,6,02/03/2023,69020.0,Closed
+LN-5064,CUST-10201,Ritu Chauhan,Female,34,Self-Employed,105400.0,762.0,north,Lucknow,Personal Loan,588000.0,12.3,60,10-Jan-2024,13170.0,Active
+LN-5577,CUST-10506,Priya Singh,Female,23,Business Owner,191700.0,782.0,North,Jaipur,Home Loan,3993000.0,9.02,258,2021-04-02,35100.0,Active
+LN-5401,CUST-10238,Sneha Singh,Female,56,Salaried,71100.0,789.0,West,Ahmedabad,Gold Loan,365000.0,9.79,30,17/07/2024,13770.0,Active
+LN-5486,CUST-10116,Shreya Pillai,Female,24,Self-Employed,132300.0,820.0,north,Chandigarh,Business Loan,3319000.0,17.17,48,19/10/2021,96060.0,Active
+LN-5403,CUST-10114,Neha Chatterjee,Female,59,Business Owner,138300.0,812.0,West,Pune,Personal Loan,549000.0,12.05,42,05/06/2024,16090.0,Active
+LN-5088,CUST-10180,Aadhya Bhat,Female,47,Self-Employed,54700.0,767.0,East,Bhubaneswar,Gold Loan,423000.0,8.42,6,03-Jan-2023,72240.0,Closed
+LN-5151,CUST-10133,Vihaan Singh,Male,41,Business Owner,142800.0,698.0,East,Kolkata,Education Loan,1165000.0,11.99,90,2022-06-10,19690.0,Active
+LN-5258,CUST-10539,SANDEEP IYER,Male,32,Self-Employed,67300.0,782.0,South,Kochi,Business Loan,4843000.0,12.15,54,03/14/2021,116870.0,Active
+LN-5126,CUST-10365,Tanya Joshi,Female,33,Business Owner,153500.0,730.0,South,Bengaluru,Business Loan,2453000.0,13.3,84,14-Feb-2022,45030.0,Active
+LN-5467,CUST-10017,NEHA VERMA,Female,28,Business Owner,97900.0,797.0,South,Kochi,Business Loan,4530000.0,15.36,30,29/01/2023,182800.0,Active
+LN-5520,CUST-10031,MANISH JOSHI,Male,27,Salaried,122500.0,698.0,South,,Home Loan,3257000.0,8.38,228,02/12/2024,28600.0,Active
+LN-5456,CUST-10301,RITU KAPOOR,Female,44,Business Owner,46000.0,787.0,South,Bengaluru,Auto Loan,440000.0,10.4,66,29-Jan-2024,8780.0,Active
+LN-5073,CUST-10276,Neha Pillai,Female,57,Self-Employed,96600.0,759.0,South,,Business Loan,2756000.0,14.24,66,2023-04-29,60460.0,Active
+LN-5218,CUST-10484,Kavya Verma,Female,41,Salaried,158100.0,737.0,East,Kolkata,Personal Loan,458000.0,15.7,24,02/05/2021,22360.0,Closed
+LN-5217,CUST-10344,Kritika Mehta,Female,34,Salaried,81400.0,564.0,South,Hyderabad,Education Loan,540000.0,9.5,114,12/11/2021,7210.0,Written Off
+LN-5698,CUST-10242,Pooja Nair,Female,57,Salaried,161700.0,578.0,South,Chennai,Auto Loan,1050000.0,8.73,66,2021-05-02,20090.0,Active
+LN-5362,CUST-10289,Ananya Chatterjee,Female,46,Self-Employed,183000.0,731.0,North,Delhi,Auto Loan,1150000.0,8.94,42,08/08/2024,31990.0,Active
+LN-5307,CUST-10017,Ishaan Chauhan,Male,56,Salaried,101600.0,753.0,East,Bhubaneswar,Education Loan,341000.0,11.73,66,31/08/2021,7040.0,Active
+LN-5115,CUST-10482,Sai Singh,Male,44,Business Owner,197700.0,818.0,south,Kochi,Education Loan,1555000.0,12.22,60,2022-08-02,34760.0,Active
+LN-5152,CUST-10140,Rajesh Das,Male,35,Self-Employed,173700.0,758.0,West,Pune,Education Loan,679000.0,11.58,48,2024-08-17,17740.0,Active
+LN-5105,CUST-10460,Kavya Menon,Female,39,Self-Employed,218800.0,573.0,North,Chandigarh,Business Loan,2326000.0,17.98,48,02/12/2021,68300.0,Active
+LN-5223,CUST-10208,Ananya Pillai,Female,60,Salaried,130900.0,685.0,North,Chandigarh,Business Loan,4185000.0,14.92,72,06/26/2021,88310.0,Defaulted
+LN-5408,CUST-10412,SIMRAN BHAT,Female,34,Salaried,158300.0,589.0,East,Guwahati,Auto Loan,1541000.0,10.19,66,2021-07-24,30600.0,Active
+LN-5005,CUST-10340,Ritu Kapoor,Female,33,Salaried,232700.0,649.0,South,Bengaluru,Education Loan,1125000.0,11.73,96,01/12/2023,18120.0,Active
+LN-5679,CUST-10443,Myra Nair,Female,33,Business Owner,113200.0,780.0,East,Guwahati,Auto Loan,834000.0,9.48,60,20-Aug-2024,17510.0,Active
+LN-5007,CUST-10403,Rahul Nair,Male,26,Self-Employed,56400.0,805.0,South,Kochi,Personal Loan,765000.0,15.5,42,11/12/2021,23710.0,Active
+LN-5566,CUST-10465,Rajesh Gupta,Male,46,Self-Employed,103000.0,728.0,East,Bhubaneswar,Business Loan,4813000.0,17.87,48,19/12/2023,141060.0,Active
+LN-5432,CUST-10554,Anika Patel,Female,36,Self-Employed,27200.0,746.0,West,Surat,Home Loan,8931000.0,8.94,198,20-Jul-2022,86410.0,Written Off
+LN-5332,CUST-10561,Neha Rao,Female,32,Salaried,200400.0,731.0,East,Guwahati,Auto Loan,570000.0,10.75,60,2024-05-26,12320.0,Active
+LN-5089,CUST-10432,NEHA NAIR,Female,27,Self-Employed,78200.0,792.0,South,Chennai,Education Loan,1732000.0,9.89,108,2022-02-15,24280.0,Active
+LN-5415,CUST-10544,Reyansh Reddy,Male,31,,130100.0,755.0,West,Pune,Business Loan,1420000.0,14.89,66,10-Feb-2021,31640.0,Active
+LN-5569,CUST-10142,Kavya Joshi,Female,61,Business Owner,160900.0,638.0,East,Guwahati,Home Loan,5516000.0,9.46,186,02/16/2024,56630.0,Active
+LN-5338,CUST-10171,Pooja Malhotra,Female,44,Salaried,189600.0,730.0,East,Kolkata,Business Loan,3829000.0,15.03,18,02/02/2024,238930.0,Active
+LN-5329,CUST-10387,Pooja Chatterjee,Female,46,Self-Employed,131300.0,678.0,East,Kolkata,Business Loan,2315000.0,15.77,54,07/03/2024,60140.0,Active
+LN-5337,CUST-10246,Saanvi Bhat,Female,53,Business Owner,105700.0,782.0,North,Lucknow,Gold Loan,319000.0,9.73,12,07-Jul-2022,28010.0,Closed
+LN-5290,CUST-10177,Aadhya Singh,Female,51,Salaried,29600.0,574.0,South,Chennai,Gold Loan,239000.0,8.43,12,2023-02-04,20840.0,Closed
+LN-5215,CUST-10404,Rajesh Mehta,Male,49,Business Owner,107500.0,749.0,south, CHENNAI ,Business Loan,4651000.0,13.29,60,20/06/2022,106520.0,Active
+LN-5753,CUST-10308,Riya Chatterjee,Female,31,,227300.0,666.0,South,Bengaluru,Business Loan,2655000.0,15.91,66,08-May-2024,60610.0,Active
+LN-5206,CUST-10271,Rahul Rao,Male,24,Business Owner,215500.0,689.0,South,Hyderabad,Education Loan,2478000.0,9.86,60,09/05/2021,52480.0,Active
+LN-5370,CUST-10144,Manish Mehta,Male,48,Self-Employed,142800.0,722.0,South,Chennai,Home Loan,8727000.0,8.29,264,30-Jul-2022,71980.0,Written Off
+LN-5628,CUST-10528,Arjun Chatterjee,Male,53,Self-Employed,126300.0,710.0,North,Chandigarh,Auto Loan,1301000.0,8.87,84,03/17/2024,20850.0,Active
+ln-5680,CUST-10144,Neha Mehta,Female,36,Salaried,141200.0,562.0,West,Pune,Business Loan,2175000.0,16.05,54,21-Oct-2021,56820.0,Active
+LN-5287,CUST-10381,Myra Menon,Female,46,Salaried,142300.0,665.0,East,Guwahati,Gold Loan,365000.0,8.44,18,2024-03-12,21660.0,Active
+LN-5082,CUST-10119,Riya Chatterjee,Female,52,Business Owner,244900.0,644.0,north,Chandigarh,Gold Loan,50000.0,8.63,18,02/05/2021,2970.0,Closed
+LN-5295,CUST-10200,Ishaan Iyer,Male,59,Salaried,90800.0,625.0,West, PUNE ,Education Loan,1304000.0,9.24,108,10/22/2024,17830.0,Active
+LN-5283,CUST-10400,Ananya Kapoor,Female,28,Business Owner,216200.0,776.0,North,Chandigarh,Education Loan,1476000.0,9.38,54,02/05/2024,33610.0,Active
+LN-5652,CUST-10516,Myra Sharma,Female,45,Business Owner,194900.0,685.0,West,Mumbai,Education Loan,762000.0,9.64,54,08-Feb-2023,17450.0,Active
+LN-5263,CUST-10160,Vikram Kapoor,Male,49,Self-Employed,116100.0,697.0,East,Patna,Education Loan,971000.0,9.45,108,12/31/2023,13380.0,Active
+LN-5315,CUST-10429,Ankit Menon,Male,58,Self-Employed,213500.0,568.0,North, DELHI ,Gold Loan,132000.0,9.79,18,04/09/2021,7910.0,Closed
+LN-5334,CUST-10399,Simran Bhat,Female,23,Business Owner,160900.0,759.0,South,Chennai,Auto Loan,1049000.0,9.03,48,10-May-2021,26120.0,Active
+LN-5197,CUST-10339,Reyansh Nair,Male,39,Business Owner,167400.0,797.0,North, CHANDIGARH ,Personal Loan,446000.0,12.4,36,2021-08-14,14900.0,Closed
+LN-5357,CUST-10003,Vikram Iyer,Male,37,Salaried,223700.0,725.0,East,Guwahati,Education Loan,1554000.0,9.77,90,08/29/2024,24430.0,Active
+LN-5234,CUST-10395,Ishaan Joshi,Male,26,Business Owner,199800.0,703.0,east,Bhubaneswar,Personal Loan,170000.0,11.15,42,08/04/2023,4910.0,Active
+LN-5665,CUST-10076,Nikhil Kapoor,Male,42,Business Owner,167000.0,712.0,West,Mumbai,Auto Loan,799000.0,9.12,66,13/08/2023,15440.0,Active
+LN-5195,CUST-10471,Aarav Chatterjee,Male,58,Self-Employed,157900.0,776.0,East,Kolkata,Gold Loan,334000.0,8.64,12,10/29/2022,29150.0,Closed
+LN-5371,CUST-10022,Gaurav Reddy,Male,27,Salaried,135400.0,672.0,West,Surat,Business Loan,2534000.0,16.61,54,08-Jul-2024,66940.0,Active
+LN-5470,CUST-10190,POOJA NAIR,Female,31,Business Owner,85600.0,658.0,West,Mumbai,Personal Loan,156000.0,12.43,24,28-Oct-2021,147400.0,Closed
+LN-5240,CUST-10533,ANIKA KAPOOR,Female,39,Salaried,213900.0,661.0,North,Chandigarh,Business Loan,2170000.0,17.56,24,28/07/2021,107870.0,Closed
+LN-5480,CUST-10014,Gaurav Iyer,Male,59,Salaried,95200.0,767.0,West,Mumbai,Personal Loan,697000.0,11.35,12,15-Jun-2022,61720.0,Closed
+LN-5036,CUST-10301,Sandeep Bhat,Male,23,Salaried,62300.0,616.0,North,Chandigarh,Education Loan,407000.0,11.55,42,28-Dec-2021,11830.0,Active
+LN-5469,CUST-10287,Isha Mehta,Female,33,Business Owner,34800.0,788.0,South,Hyderabad,Home Loan,4159000.0,9.34,186,12/01/2022,42390.0,Active
+LN-5361,CUST-10450,Nikhil Nair,Male,48,Salaried,34300.0,562.0,West,Mumbai,Home Loan,4821000.0,8.89,138,28-Aug-2022,55900.0,Active
+LN-5146,CUST-10486,Aarav Bose,Male,56,Self-Employed,99600.0,773.0,North,Lucknow,Personal Loan,431000.0,11.66,12,2023-02-13,38230.0,Closed
+LN-5079,CUST-10566,Diya Nair,Female,57,Salaried,211100.0,717.0,South,Hyderabad,Home Loan,4535000.0,9.3,222,09/02/2021,42870.0,Active
+LN-5097,CUST-10292,Aditya Joshi,Male,37,Business Owner,74000.0,595.0,South,Hyderabad,Gold Loan,199000.0,9.96,36,08/04/2023,6420.0,Active
+LN-5747,CUST-10469,Anika Gupta,Female,37,Salaried,125800.0,689.0,North, DELHI ,Gold Loan,465000.0,10.23,36,02/05/2022,15050.0,Written Off
+LN-5647,CUST-10050,Amit Malhotra,Male,29,Self-Employed,88200.0,793.0,East,Kolkata,Business Loan,2413000.0,17.47,36,03/08/2024,86600.0,Defaulted
+LN-5689,CUST-10491,Amit Sharma,Male,59,Business Owner,216700.0,588.0,north,Delhi,Business Loan,926000.0,15.51,72,30-Jan-2023,19840.0,Active
+LN-5087,CUST-10434,Kritika Mehta,Female,40,Business Owner,31900.0,671.0,North,Chandigarh,Business Loan,4201000.0,12.66,24,05-Jan-2022,199050.0,Closed
+LN-5657,CUST-10134,Sandeep Sharma,Male,55,Salaried,115300.0,692.0,West,Ahmedabad,Gold Loan,411000.0,10.92,12,2022-08-31,36310.0,Closed
+LN-5134,CUST-10405,Sneha Menon,Female,53,Salaried,47800.0,569.0,North,Lucknow,Personal Loan,309000.0,12.86,42,04/07/2023,9180.0,Active
+LN-5668,CUST-10385,Ritu Das,Female,39,Self-Employed,57900.0,643.0,North,Lucknow,Auto Loan,1750000.0,11.79,60,07/16/2022,38740.0,Active
+LN-5443,CUST-10364,Ankit Verma,Male,55,Salaried,171800.0,724.0,South,Kochi,Business Loan,3127000.0,16.79,60,2024-03-28,77360.0,Written Off
+LN-5149,CUST-10570,SIMRAN MALHOTRA,Female,32,,189000.0,637.0,South,Bengaluru,Home Loan,2977000.0,8.75,240,20/02/2021,26310.0,Active
+LN-5034,CUST-10013,Rajesh Singh,Male,35,Self-Employed,182800.0,652.0,West,Surat,Business Loan,2033000.0,12.86,42,2024-08-28,60370.0,Active
+LN-5095,CUST-10295,Priya Bhat,Female,28,Business Owner,242800.0,805.0,South,Hyderabad,Gold Loan,359000.0,7.68,18,15-Mar-2024,21180.0,Active
+LN-5447,CUST-10349,Ritu Kapoor,Female,41,Salaried,211500.0,764.0,South,Chennai,Personal Loan,713000.0,11.71,36,08-May-2024,23580.0,Active
+LN-5096,CUST-10319,RAHUL KAPOOR,Male,60,Self-Employed,,699.0,East,Guwahati,Gold Loan,364000.0,10.03,6,10/01/2022,62450.0,Closed
+LN-5347,CUST-10275,SAI GUPTA,Male,53,Self-Employed,31400.0,795.0,North,Lucknow,Home Loan,1518000.0,9.67,216,03/31/2024,14860.0,Active
+LN-5267,CUST-10136,Rahul Chatterjee,Male,40,Self-Employed,145400.0,694.0,west,Mumbai,Business Loan,3368000.0,16.52,84,22/11/2021,67900.0,Active
+LN-5275,CUST-10405,Manish Iyer,Male,38,Salaried,180200.0,595.0,East,Guwahati,Gold Loan,262000.0,7.39,12,03/07/2023,22720.0,Closed
+LN-5669,CUST-10200,Ankit Bose,Male,62,Business Owner,237400.0,787.0,East,Bhubaneswar,Education Loan,1585000.0,12.23,96,02/10/2023,25960.0,Active
+LN-5269,CUST-10209,Pooja Rao,Female,52,Salaried,231900.0,586.0,North,Jaipur,Home Loan,2955000.0,10.21,228,2021-04-18,29400.0,Active
+LN-5074,CUST-10331,Sandeep Joshi,Male,48,Salaried,42900.0,681.0,East,Bhubaneswar,Personal Loan,58000.0,,18,03/09/2021,3620.0,Closed
+LN-5038,CUST-10165,Rahul Verma,Male,36,Business Owner,30700.0,574.0,South,Hyderabad,Home Loan,3937000.0,9.71,162,20/09/2021,43700.0,Active
+LN-5190,CUST-10313,Sai Verma,Male,38,Business Owner,37400.0,705.0,West,Mumbai,Business Loan,4474000.0,14.76,48,07-Feb-2022,123970.0,Defaulted
+LN-5160,CUST-10343,Simran Iyer,Female,31,Business Owner,232800.0,813.0,North,Chandigarh,Auto Loan,1609000.0,9.91,48,2022-12-04,40740.0,Active
+LN-5187,CUST-10122,Ishaan Mehta,Male,40,Self-Employed,165000.0,587.0,West,Surat,Auto Loan,332000.0,11.68,72,07/30/2022,6440.0,Active
+LN-5672,CUST-10208,Arjun Gupta,Male,58,Salaried,158300.0,818.0,East,Kolkata,Education Loan,1060000.0,10.52,48,01/29/2022,27150.0,Active
+LN-5744,CUST-10065,Gaurav Reddy,Male,52,Self-Employed,155900.0,740.0,West,Surat,Gold Loan,267000.0,8.05,6,27/05/2024,45550.0,Closed
+LN-5354,CUST-10010,Pooja Mehta,Female,30,Business Owner,35600.0,675.0,North,Delhi,Gold Loan,80000.0,8.69,18,05/11/2021,4760.0,Closed
+LN-5298,CUST-10419,Manish Menon,Male,58,Self-Employed,216700.0,799.0,East,Bhubaneswar,Education Loan,1441000.0,9.16,108,15-Feb-2023,19640.0,Active
+LN-5054,CUST-10496,Neha Joshi,Female,26,Self-Employed,192400.0,717.0,North,Lucknow,Home Loan,6895000.0,8.33,234,13-Dec-2021,59690.0,Active
+LN-5002,CUST-10416,DIYA DAS,Female,46,Salaried,59800.0,605.0,East,,Personal Loan,656000.0,11.1,24,02/05/2024,30610.0,Active
+LN-5663,CUST-10428,Meera Menon,Female,55,Salaried,170200.0,599.0,North,Chandigarh,Home Loan,6488000.0,10.49,246,06/03/2023,64270.0,Active
+LN-5131,CUST-10366,Sneha Patel,Female,44,Business Owner,74700.0,688.0,North,Lucknow,Personal Loan,166000.0,15.82,60,2021-01-26,4020.0,Active
+LN-5259,CUST-10371,Myra Mehta,Female,61,Salaried,160900.0,712.0,West,Mumbai,Gold Loan,321000.0,10.0,24,17/06/2022,14810.0,Closed
+LN-5736,CUST-10497,Vihaan Pillai,Male,25,Salaried,178400.0,577.0,West,Ahmedabad,Business Loan,3137000.0,13.78,60,2023-06-19,72640.0,Active
+LN-5350,CUST-10379,Arjun Sharma,Male,36,Self-Employed,63600.0,597.0,South,Bengaluru,Personal Loan,360000.0,13.57,24,02/18/2024,17210.0,Defaulted
+LN-5317,CUST-10089,Kavya Gupta,Female,61,Salaried,133300.0,816.0,east, BHUBANESWAR ,Auto Loan,1641000.0,11.89,66,04/10/2022,33990.0,Active
+LN-5174,CUST-10277,Kritika Das,Female,42,Business Owner,214600.0,636.0,North,Jaipur,Business Loan,4132000.0,12.87,30,29/07/2023,161810.0,Active
+LN-5292,CUST-10348,Manish Chatterjee,Male,29,Business Owner,180200.0,657.0,South, BENGALURU ,Gold Loan,224000.0,9.34,24,05/22/2023,10270.0,Active
+LN-5301,CUST-10127,ANKIT MALHOTRA,Male,30,Business Owner,59800.0,593.0,South,Chennai,Personal Loan,641000.0,12.87,48,05/04/2024,17160.0,Active
+LN-5272,CUST-10449,SAI VERMA,Male,33,Business Owner,119300.0,624.0,East,Kolkata,Personal Loan,697000.0,14.33,60,29-Jan-2022,16340.0,Active
+LN-5327,CUST-10510,Kavya Iyer,Female,60,Business Owner,190700.0,566.0,North,Lucknow,Personal Loan,675000.0,14.48,12,2023-12-12,60760.0,Closed
+LN-5228,CUST-10378,Pooja Chatterjee,Female,52,Business Owner,115100.0,717.0,South,Kochi,Gold Loan,223000.0,9.2,18,2024-06-26,13310.0,Active
+LN-5092,CUST-10161,Simran Menon,Female,56,Business Owner,99700.0,780.0,West,Mumbai,Business Loan,2778000.0,16.5,78,07/01/2024,58290.0,Active
+LN-5713,CUST-10478,Ankit Kapoor,Male,55,Business Owner,172300.0,588.0,North, DELHI ,Personal Loan,557000.0,15.22,18,01-Apr-2024,34810.0,Active
+LN-5176,CUST-10081,KRISHNA NAIR,Male,43,,108100.0,595.0,North,Delhi,Home Loan,3144000.0,8.99,192,04/11/2024,30930.0,Active
+LN-5026,CUST-10127,ANKIT DAS,Male,38,Business Owner,54200.0,695.0,North,Lucknow,Personal Loan,562000.0,12.48,30,11/19/2023,21900.0,Active
+LN-5405,CUST-10099,Ritu Pillai,Female,58,Salaried,132200.0,,West,Pune,Gold Loan,274000.0,9.9,30,01/12/2021,10350.0,Closed
+LN-5407,CUST-10264,Tanya Pillai,Female,44,Self-Employed,185500.0,627.0,West,Ahmedabad,Home Loan,5700000.0,10.18,186,02/25/2023,61040.0,Active
+LN-5130,CUST-10332,Vivaan Reddy,Male,60,Salaried,175700.0,645.0,East,Patna,Business Loan,4917000.0,15.4,72,13/02/2021,105040.0,Defaulted
+LN-5551,CUST-10372,Sandeep Patel,Male,60,Self-Employed,120300.0,752.0,South,Bengaluru,Auto Loan,761000.0,11.7,42,25/04/2024,22170.0,Active
+LN-5678,CUST-10182,RITU MALHOTRA,Female,46,Business Owner,182700.0,641.0,south,Chennai,Business Loan,3278000.0,12.41,42,30-Mar-2021,96620.0,Closed
+LN-5288,CUST-10469,Shreya Patel,Female,44,Self-Employed,165800.0,653.0,north,Jaipur,Gold Loan,53000.0,8.23,30,2024-06-23,1960.0,Active
+LN-5016,CUST-10101,Reyansh Verma,Male,24,,137800.0,580.0,West, AHMEDABAD ,Education Loan,1637000.0,11.8,54,16/01/2021,39220.0,Active
+LN-5459,CUST-10490,Ankit Nair,Male,39,Salaried,225600.0,654.0,north, LUCKNOW ,Home Loan,3948000.0,8.96,276,12/24/2023,33820.0,Active
+LN-5471,CUST-10450,Riya Menon,Female,32,Salaried,141800.0,804.0,East,Kolkata,Auto Loan,378000.0,9.24,24,10/15/2022,17310.0,Closed
+LN-5374,CUST-10232,Diya Chatterjee,Female,38,Business Owner,111800.0,666.0,North,Lucknow,Personal Loan,420000.0,12.55,24,04/08/2022,19880.0,Closed
+LN-5031,CUST-10366,Diya Menon,Female,48,Business Owner,133500.0,579.0,East,Kolkata,Business Loan,675000.0,17.79,84,25/08/2023,14100.0,Active
+LN-5058,CUST-10555,Aadhya Pillai,Female,32,Business Owner,27000.0,584.0,West,Ahmedabad,Gold Loan,38000.0,8.84,24,10/10/2024,1730.0,Active
+LN-5675,CUST-10263,Vikram Menon,Male,58,Business Owner,165300.0,719.0,West,Mumbai,Home Loan,3536000.0,8.56,222,11/08/2022,31780.0,Active
+LN-5035,CUST-10335,Priya Bhat,Female,40,Salaried,203700.0,,North,Lucknow,Personal Loan,704000.0,15.47,48,24/01/2022,19760.0,Active
+LN-5710,CUST-10074,Karan Sharma,Male,42,Business Owner,120500.0,688.0,west,Ahmedabad,Education Loan,1550000.0,9.25,72,05/10/2023,28130.0,Active
+LN-5189,CUST-10439,Riya Bhat,Female,40,Business Owner,55900.0,765.0,East,Patna,Business Loan,1563000.0,13.36,18,2021-02-17,96310.0,Closed
+LN-5062,CUST-10549,Ritu Sharma,Female,47,Self-Employed,125500.0,646.0,South, BENGALURU ,Business Loan,3680000.0,12.43,30,05/02/2022,143340.0,Closed
+LN-5685,CUST-10042,Myra Iyer,Female,43,Self-Employed,49600.0,736.0,North,Lucknow,Gold Loan,232000.0,,30,08/10/2022,8510.0,Active
+LN-5466,CUST-10148,Rahul Rao,Male,38,Self-Employed,102800.0,695.0,South,Bengaluru,Business Loan,492000.0,14.12,78,2024-08-23,9670.0,Active
+LN-5182,CUST-10336,Aditya Bose,Male,29,Salaried,126600.0,803.0,South,Hyderabad,Gold Loan,228000.0,8.5,18,15-Feb-2024,13540.0,Active
+LN-5420,CUST-10300,Neha Iyer,Female,46,Business Owner,47600.0,594.0,South,Bengaluru,Gold Loan,126000.0,7.79,6,09/20/2021,21480.0,Closed
+LN-5008,CUST-10142,MYRA SHARMA,Female,24,Self-Employed,158600.0,687.0,East, PATNA ,Gold Loan,222000.0,9.73,12,01/10/2021,19490.0,Closed
+LN-5513,CUST-10143,Arjun Patel,Male,62,Business Owner,98500.0,761.0,North,Jaipur,Gold Loan,199000.0,8.34,18,17/07/2023,11800.0,Active
+LN-5013,CUST-10087,Manish Patel,Male,61,Salaried,200400.0,694.0,East,Bhubaneswar,Home Loan,5109000.0,9.25,174,2024-06-12,53430.0,Active
+LN-5592,CUST-10369,Arjun Verma,Male,26,Business Owner,212400.0,678.0,East,Guwahati,Auto Loan,1301000.0,10.83,48,15/11/2021,33520.0,Active
+LN-5658,CUST-10464,Gaurav Verma,Male,49,Salaried,130300.0,604.0,East, PATNA ,Gold Loan,217000.0,10.44,24,09-Jun-2022,10060.0,Closed
+LN-5325,CUST-10229,Divya Bose,Female,58,Self-Employed,168800.0,688.0,West,Mumbai,Education Loan,989000.0,11.87,54,12/29/2022,23730.0,Active
+LN-5621,CUST-10026,Isha Chatterjee,Female,36,,189500.0,736.0,South,Hyderabad,Home Loan,3798000.0,9.21,276,08/15/2023,33170.0,Active
+LN-5423,CUST-10541,Ishaan Kapoor,Male,30,Salaried,149200.0,804.0,North,Delhi,Business Loan,4289000.0,12.12,84,08/29/2022,75990.0,Active
+LN-5018,CUST-10192,Vivaan Malhotra,Male,44,Salaried,85700.0,740.0,East,Guwahati,Auto Loan,677000.0,10.69,30,2024-09-30,25820.0,Active
+LN-5229,CUST-10210,Amit Chauhan,Male,43,Business Owner,112700.0,787.0,North,Chandigarh,Home Loan,2097000.0,9.37,144,20-Jun-2024,24300.0,Active
+LN-5246,CUST-10569,Simran Das,Female,61,Business Owner,217200.0,636.0,North, JAIPUR ,Personal Loan,450000.0,14.7,24,10/19/2021,21750.0,Closed
+LN-5718,CUST-10251,Aditya Chatterjee,Male,58,Self-Employed,151900.0,729.0,South,Hyderabad,Education Loan,2482000.0,9.66,72,28-Apr-2021,45560.0,Active
+LN-5523,CUST-10001,Neha Pillai,Female,27,Salaried,127200.0,708.0,East, KOLKATA ,Education Loan,366000.0,11.47,78,2023-05-30,6680.0,Active
+LN-5656,CUST-10365,Vivaan Singh,Male,49,Self-Employed,77900.0,787.0,east,Kolkata,Gold Loan,315000.0,8.88,36,2022-05-28,10000.0,Written Off
+LN-5508,CUST-10536,Meera Rao,Female,41,Self-Employed,102800.0,652.0,West,Pune,Gold Loan,60000.0,7.52,24,26/07/2022,2700.0,Closed
+LN-5322,CUST-10559,Rajesh Singh,Male,25,Salaried,40500.0,636.0,South,Bengaluru,Home Loan,8545000.0,8.32,198,2022-03-23,79480.0,Active
+LN-5119,CUST-10309,ISHA KAPOOR,Female,55,Self-Employed,82900.0,816.0,West,Surat,Business Loan,4670000.0,14.09,30,2023-02-26,185590.0,Active
+LN-5255,CUST-10169,Priya Menon,Female,49,Salaried,64100.0,726.0,East,Bhubaneswar,Business Loan,4133000.0,14.25,84,30/03/2024,78020.0,Active
+LN-5650,CUST-10115,Krishna Menon,Male,52,Salaried,220400.0,719.0,South,Kochi,Business Loan,4886000.0,17.01,72,01-Aug-2023,108720.0,Active
+LN-5697,CUST-10311,Riya Kapoor,Female,32,Self-Employed,147800.0,574.0,West,Pune,Business Loan,1924000.0,14.22,72,12/04/2023,39870.0,Defaulted
+LN-5495,CUST-10510,Karan Singh,Male,54,Business Owner,49200.0,655.0,North,Chandigarh,Home Loan,4114000.0,8.7,144,14-Feb-2022,46130.0,Defaulted
+LN-5690,CUST-10238,Gaurav Sharma,Male,41,Salaried,64100.0,763.0,south,Bengaluru,Education Loan,634000.0,9.47,60,2023-05-23,13310.0,Active
+LN-5627,CUST-10305,Pooja Das,Female,51,Business Owner,61800.0,712.0,West,Surat,Business Loan,3432000.0,15.3,42,11/01/2022,106040.0,Active
+LN-5179,CUST-10186,Aadhya Menon,Female,35,Business Owner,45200.0,796.0,North,,Business Loan,4600000.0,14.91,48,25-Dec-2021,127810.0,Written Off
+LN-5424,CUST-10335,Shreya Patel,Female,57,Self-Employed,211600.0,560.0,East,Guwahati,Business Loan,1462000.0,15.13,78,2022-04-06,29560.0,Active
+LN-5219,CUST-10271,Sai Verma,Male,49,Self-Employed,164900.0,592.0,North,Lucknow,Personal Loan,685000.0,14.96,54,28/07/2021,17510.0,Active
+LN-5537,CUST-10447,Ananya Singh,Female,29,Salaried,232900.0,561.0,West,Pune,Gold Loan,287000.0,7.83,12,02-Oct-2022,24940.0,Closed
+LN-5320,CUST-10065,Sneha Kapoor,Female,32,Business Owner,117000.0,768.0,West,Ahmedabad,Education Loan,659000.0,12.73,102,02/16/2023,10610.0,Active
+LN-5571,CUST-10216,Sandeep Iyer,Male,27,Self-Employed,46100.0,746.0,North,Jaipur,Gold Loan,450000.0,7.3,24,2024-01-19,20210.0,Active
+LN-5239,CUST-10103,Neha Chatterjee,Female,-40,Business Owner,31500.0,675.0,west, MUMBAI ,Personal Loan,770000.0,15.29,12,09-Sep-2022,69600.0,Closed
+LN-5104,CUST-10109,Vihaan Rao,Male,30,Salaried,169900.0,680.0,East,Kolkata,Auto Loan,454000.0,9.68,42,2023-01-28,12790.0,Active
+LN-5157,CUST-10127,Ankit Das,Male,54,Salaried,150800.0,697.0,North,Jaipur,Business Loan,2521000.0,15.19,24,14-Oct-2021,122460.0,Closed
+LN-5528,CUST-10253,Saanvi Verma,Female,45,Business Owner,110100.0,638.0,North,Jaipur,Education Loan,2054000.0,10.02,72,19/02/2024,38070.0,Active
+LN-5238,CUST-10452,Anika Das,Female,25,Business Owner,25500.0,771.0,South,Hyderabad,Personal Loan,750000.0,11.36,36,02-Jul-2023,24680.0,Defaulted
+LN-5649,CUST-10203,Aarav Mehta,Male,24,Business Owner,239500.0,644.0,South,Hyderabad,Education Loan,1073000.0,10.16,78,14-Jun-2023,18850.0,Active
+LN-5657,CUST-10134,Sandeep Sharma,Male,55,Salaried,115300.0,692.0,West,Ahmedabad,Gold Loan,411000.0,10.92,12,2022-08-31,36310.0,Closed
+ln-5559,CUST-10424,Aadhya Reddy,Female,62,Business Owner,109700.0,623.0,South,Bengaluru,Personal Loan,144000.0,15.45,54,05/23/2021,3720.0,Active
+LN-5200,CUST-10281,Karan Bhat,Male,31,Salaried,74800.0,,West, AHMEDABAD ,Education Loan,2440000.0,11.5,90,08-May-2023,40580.0,Active
+LN-5250,CUST-10299,Vikram Singh,Male,34,Salaried,166300.0,598.0,South,Hyderabad,Education Loan,1333000.0,9.07,60,06/11/2022,27720.0,Active
+LN-5676,CUST-10386,AARAV MEHTA,Male,44,Business Owner,144400.0,650.0,East,Patna,Education Loan,2453000.0,11.03,60,23-Dec-2021,53370.0,Active
+LN-5402,CUST-10371,Manish Chatterjee,Male,39,Salaried,182500.0,705.0,West,Pune,Personal Loan,403000.0,11.48,12,2022-10-02,35710.0,Closed
+LN-5553,CUST-10393,Rohan Rao,Male,34,Salaried,204300.0,600.0,South,Kochi,Business Loan,3065000.0,12.87,42,30/07/2024,91030.0,Active
+LN-5326,CUST-10000,Ankit Chatterjee,Male,31,Business Owner,47600.0,784.0,west,Surat,Personal Loan,135000.0,12.43,48,07-Mar-2024,3580.0,Active
+LN-5358,CUST-10109,Ritu Joshi,Female,37,Salaried,141500.0,617.0,West,Ahmedabad,Business Loan,4585000.0,12.33,24,27/05/2023,216540.0,Active
+LN-5521,CUST-10205,Gaurav Menon,Male,39,Business Owner,182000.0,643.0,South,Hyderabad,Gold Loan,120000.0,8.82,36,2022-06-18,3810.0,Active
+LN-5368,CUST-10442,Ishaan Kapoor,Male,54,Self-Employed,39800.0,722.0,South,Bengaluru,Auto Loan,296000.0,9.23,54,31-Jul-2022,6720.0,Active
+LN-5501,CUST-10216,Sai Nair,Male,31,Salaried,222600.0,631.0,South,Hyderabad,Home Loan,3292000.0,10.02,228,13/09/2022,32350.0,Active
+LN-5426,CUST-10526,Myra Pillai,Female,55,Salaried,99600.0,598.0,North,Delhi,Personal Loan,395000.0,15.7,42,26-Jul-2024,12280.0,Active
+LN-5069,CUST-10162,Aditya Joshi,Male,52,Salaried,232300.0,714.0,East,Bhubaneswar,Gold Loan,77000.0,7.81,36,2024-08-10,2410.0,Active
+LN-5604,CUST-10313,Vivaan Kapoor,Male,24,,187600.0,787.0,East,Kolkata,Personal Loan,135000.0,15.36,18,2022-11-27,8440.0,Closed
+LN-5261,CUST-10320,Manish Iyer,Male,23,Business Owner,126300.0,752.0,West, MUMBAI ,Business Loan,4220000.0,15.34,72,29-Jun-2024,90010.0,Active
+LN-5140,CUST-10345,Ankit Menon,Male,29,Self-Employed,,697.0,North,Jaipur,Business Loan,4354000.0,,78,2024-01-06,87850.0,Active
+LN-5557,CUST-10282,Riya Malhotra,Female,28,Business Owner,104200.0,644.0,north, CHANDIGARH ,Personal Loan,249000.0,12.21,42,07/21/2023,7310.0,Written Off
+LN-5001,CUST-10168,Meera Kapoor,Female,53,Business Owner,66300.0,680.0,East,Patna,Personal Loan,61000.0,15.66,48,22/05/2021,1720.0,Active
+LN-5567,CUST-10222,Isha Gupta,Female,29,Salaried,38100.0,578.0,East,Kolkata,Personal Loan,798000.0,15.21,54,07/11/2021,20500.0,Active
+LN-5256,CUST-10407,Nikhil Reddy,Male,44,Salaried,126100.0,666.0,North, JAIPUR ,Education Loan,1032000.0,10.36,84,2021-08-31,17320.0,Active
+LN-5155,CUST-10569,Aditya Verma,Male,30,Self-Employed,111300.0,623.0,South,Chennai,Home Loan,3709000.0,10.13,252,2022-08-03,35590.0,Written Off
+LN-5509,CUST-10291,Rahul Bhat,Male,36,Self-Employed,105500.0,744.0,East,Guwahati,Personal Loan,552000.0,15.44,24,06-Jan-2021,26880.0,Closed
+LN-5342,CUST-10197,Aditya Singh,Male,26,Salaried,239100.0,732.0,North,Lucknow,Education Loan,2133000.0,11.96,120,11/27/2021,30550.0,Active
+LN-5487,CUST-10365,Rajesh Reddy,Male,49,Self-Employed,108300.0,769.0,North,Jaipur,Personal Loan,694000.0,12.84,12,15-Aug-2023,61930.0,Closed
+LN-5519,CUST-10096,Isha Reddy,Female,48,Business Owner,119700.0,731.0,East,Kolkata,Education Loan,1977000.0,12.06,84,2023-03-12,34960.0,Active
+LN-5661,CUST-10479,Sneha Bose,Female,42,Self-Employed,117700.0,591.0,West,Ahmedabad,Gold Loan,23000.0,9.1,36,17-Jul-2023,730.0,Active
+LN-5693,CUST-10461,Shreya Bhat,Female,40,Salaried,201000.0,645.0,West,Ahmedabad,Auto Loan,708000.0,9.28,72,23-Jul-2024,12860.0,Active
+LN-5363,CUST-10128,Rahul Rao,Male,59,Salaried,63500.0,576.0,West,Surat,Education Loan,1684000.0,9.81,36,10/14/2021,54190.0,Closed
+LN-5105,CUST-10460,Kavya Menon,Female,39,Self-Employed,218800.0,573.0,North,Chandigarh,Business Loan,2326000.0,17.98,48,02/12/2021,68300.0,Active
+LN-5518,CUST-10529,POOJA IYER,Female,26,Salaried,231900.0,584.0,North,Jaipur,Personal Loan,405000.0,13.72,42,2023-10-05,12200.0,Active
+LN-5429,CUST-10215,Reyansh Iyer,Male,55,Self-Employed,92000.0,718.0,East,Bhubaneswar,Personal Loan,374000.0,11.09,12,2022-07-10,33070.0,Closed
+LN-5039,CUST-10315,Riya Das,Female,47,Self-Employed,192900.0,581.0,South,Kochi,Home Loan,3743000.0,8.57,276,07/06/2023,31090.0,Active
+LN-5282,CUST-10055,Divya Chauhan,Female,33,Salaried,98400.0,750.0,West,Pune,Personal Loan,579000.0,14.87,42,03/07/2024,17770.0,Active
+LN-5181,CUST-10453,RIYA KAPOOR,Female,31,Business Owner,150800.0,703.0,north,Chandigarh,Gold Loan,243000.0,9.55,12,05-May-2022,21310.0,Closed
+LN-5071,CUST-10200,Myra Mehta,Female,38,Salaried,58600.0,712.0,South,Chennai,Auto Loan,1483000.0,9.14,60,2023-11-04,30890.0,Active
+LN-5714,CUST-10020,Diya Bose,Female,60,Salaried,247700.0,587.0,West, AHMEDABAD ,Education Loan,339000.0,12.96,96,06/09/2022,5690.0,Active
+LN-5578,CUST-10274,Saanvi Kapoor,Female,39,Salaried,149300.0,800.0,East,Kolkata,Auto Loan,662000.0,11.76,30,2022-10-23,25580.0,Active
+LN-5294,CUST-10354,Ananya Rao,Female,29,Self-Employed,167500.0,773.0,East, BHUBANESWAR ,Business Loan,4514000.0,17.26,36,2021-01-14,161520.0,Closed
+LN-5712,CUST-10154,Ishaan Chatterjee,Male,53,Salaried,79200.0,582.0,East,Guwahati,Auto Loan,1573000.0,11.83,72,11-Jan-2022,30610.0,Active
+LN-5539,CUST-10122,Karan Malhotra,Male,28,Self-Employed,176200.0,,East,Guwahati,Gold Loan,370000.0,9.04,36,2022-06-19,11770.0,Active
+LN-5643,CUST-10013,Tanya Gupta,Female,28,Business Owner,103600.0,737.0,North, JAIPUR ,Personal Loan,371000.0,14.32,24,01/19/2023,17870.0,Active
+LN-5110,CUST-10384,Rajesh Chatterjee,Male,25,Salaried,220700.0,678.0,North,Lucknow,Education Loan,1066000.0,10.0,60,04/20/2022,22650.0,Active
+LN-5021,CUST-10375,Amit Patel,Male,47,Business Owner,193400.0,653.0,West,Mumbai,Gold Loan,260000.0,8.65,12,21-Nov-2023,22700.0,Closed
+LN-5535,CUST-10062,Priya Pillai,Female,43,Salaried,93700.0,616.0,South,Hyderabad,Home Loan,2463000.0,10.25,150,19/02/2022,29190.0,Defaulted
+LN-5740,CUST-10486,Rohan Menon,Male,24,Salaried,102000.0,696.0,West,Mumbai,Personal Loan,626000.0,11.02,48,12/22/2021,16190.0,Active
+LN-5425,CUST-10387,Rahul Malhotra,Male,27,Self-Employed,26100.0,796.0,West,Mumbai,Personal Loan,225000.0,14.05,42,01/16/2023,6810.0,Active
+LN-5183,CUST-10492,Amit Chauhan,Male,36,Self-Employed,36600.0,787.0,South, HYDERABAD ,Home Loan,2391000.0,8.5,264,06-Mar-2021,20050.0,Active
+ln-5550,CUST-10295,Simran Rao,Female,32,Self-Employed,157600.0,767.0,North,Chandigarh,Auto Loan,1319000.0,10.62,84,29-May-2024,22320.0,Active
+LN-5120,CUST-10054,Aadhya Menon,Female,49,Self-Employed,66300.0,710.0,North,Jaipur,Home Loan,6958000.0,9.24,216,2023-10-13,66200.0,Active
+LN-5505,CUST-10188,Manish Reddy,Male,58,Salaried,108800.0,572.0,North, LUCKNOW ,Gold Loan,302000.0,10.28,6,03-Nov-2022,51850.0,Closed
+LN-5450,CUST-10183,Sai Verma,Male,36,Business Owner,78000.0,629.0,North,Delhi,Gold Loan,487000.0,8.09,18,26-Jan-2024,28820.0,Active
+LN-5636,CUST-10522,Aditya Joshi,Male,48,Self-Employed,194000.0,617.0,west,Ahmedabad,Gold Loan,76000.0,9.25,30,2023-09-25,2850.0,Active
+LN-5476,CUST-10417,Kavya Chatterjee,Female,47,Business Owner,42900.0,640.0,South,Kochi,Personal Loan,528000.0,14.7,36,2021-07-12,18230.0,Closed
+LN-5694,CUST-10560,Diya Kapoor,Female,30,Self-Employed,62500.0,773.0,East,Kolkata,Business Loan,4064000.0,12.19,66,01/12/2021,84810.0,Active
+LN-5302,CUST-10470,Ananya Nair,Female,45,Salaried,37500.0,590.0,South,Hyderabad,Personal Loan,273000.0,13.4,36,10-May-2021,9250.0,Closed
+LN-5396,CUST-10008,Kavya Kapoor,Female,53,Business Owner,177900.0,623.0,South,Kochi,Business Loan,1132000.0,14.53,42,12/10/2023,34540.0,Active
+LN-5221,CUST-10038,Manish Gupta,Male,50,Salaried,64600.0,760.0,West,Surat,Business Loan,1864000.0,13.63,60,05-Jun-2021,43020.0,Active
+LN-5168,CUST-10108,Krishna Gupta,Male,61,Business Owner,201400.0,805.0,West,Ahmedabad,Education Loan,2482000.0,11.58,102,13-Sep-2022,38350.0,Active
+LN-5496,CUST-10334,Neha Bhat,Female,43,Self-Employed,78300.0,615.0,south, BENGALURU ,Business Loan,2026000.0,12.36,42,10/24/2022,59670.0,Active
+LN-5098,CUST-10228,KARAN MENON,Male,46,Business Owner,51300.0,603.0,East,Patna,Gold Loan,298000.0,9.87,36,23-Jun-2023,9600.0,Active
+LN-5417,CUST-10021,Amit Iyer,Male,57,Business Owner,239600.0,810.0,North,Delhi,Education Loan,347000.0,11.32,78,31/08/2024,6300.0,Active
+LN-5353,CUST-10518,Shreya Chatterjee,Female,40,Business Owner,237000.0,617.0,South,Bengaluru,Auto Loan,321000.0,11.7,78,15-May-2023,5900.0,Active
+LN-5028,CUST-10561,Meera Sharma,Female,45,Self-Employed,194900.0,793.0,West,Pune,Business Loan,2715000.0,13.34,84,22/04/2022,49890.0,Written Off
+LN-5310,CUST-10326,Reyansh Gupta,Male,61,Salaried,30600.0,664.0,East,Bhubaneswar,Education Loan,723000.0,10.27,78,29-Dec-2021,12740.0,Active
+LN-5129,CUST-10034,Divya Mehta,Female,40,Self-Employed,93700.0,580.0,North,Lucknow,Gold Loan,484000.0,8.42,12,2022-07-02,42200.0,Closed
+LN-5492,CUST-10292,Sneha Singh,Female,26,Business Owner,131900.0,735.0,South, KOCHI ,Auto Loan,984000.0,10.08,30,04/19/2022,37240.0,Closed
+LN-5061,CUST-10385,Aditya Chatterjee,Male,59,Self-Employed,149000.0,802.0,South,Kochi,Education Loan,2457000.0,9.32,72,28/09/2022,44680.0,Active
+LN-5700,CUST-10284,Gaurav Rao,Male,41,Business Owner,106900.0,597.0,North,Jaipur,Education Loan,1803000.0,9.87,78,04-Aug-2021,31410.0,Active
+LN-5366,CUST-10012,Vivaan Patel,Male,55,Salaried,222200.0,597.0,west,Ahmedabad,Home Loan,1773000.0,8.88,228,18/10/2022,16120.0,Active
+LN-5316,CUST-10306,Meera Joshi,Female,41,Business Owner,59500.0,766.0,West,Ahmedabad,Personal Loan,669000.0,13.99,42,2021-07-05,20240.0,Active
+LN-5629,CUST-10481,Tanya Gupta,Female,38,Salaried,47800.0,,South,Chennai,Auto Loan,925000.0,10.95,30,2024-11-10,35390.0,Closed
+LN-5560,CUST-10358,Ishaan Reddy,Male,42,Business Owner,57900.0,563.0,North,Chandigarh,Business Loan,4940000.0,12.99,60,04/03/2021,112370.0,Active
+LN-5014,CUST-10148,Gaurav Patel,Male,62,Self-Employed,192000.0,796.0,North,Lucknow,Personal Loan,793000.0,11.83,48,26-Feb-2022,20820.0,Active
+LN-5646,CUST-10057,Vihaan Chatterjee,Male,60,Business Owner,114600.0,629.0,South,Kochi,Home Loan,6839000.0,9.41,246,10/02/2023,62830.0,Active
+LN-5460,CUST-10224,Shreya Iyer,Female,30,Business Owner,206500.0,595.0,South,Kochi,Gold Loan,459000.0,7.46,12,2023-01-26,39810.0,Closed
+LN-5114,CUST-10093,Divya Malhotra,Female,43,Salaried,142500.0,614.0,West,Ahmedabad,Home Loan,2570000.0,9.93,300,10/18/2022,23230.0,Active
+LN-5479,CUST-10132,Kritika Nair,Female,58,Self-Employed,144300.0,806.0,West,Mumbai,Education Loan,956000.0,12.14,54,2024-06-07,23060.0,Active
+LN-5581,CUST-10307,ANKIT SINGH,Male,44,Self-Employed,206200.0,692.0,North,Chandigarh,Education Loan,1512000.0,10.62,72,2021-09-30,28490.0,Active
+LN-5758,CUST-10072,Amit Bose,Male,58,Business Owner,241900.0,671.0,West,Pune,Home Loan,3524000.0,8.87,162,01-Dec-2022,37390.0,Active
+LN-5748,CUST-10318,Amit Reddy,Male,27,Salaried,241800.0,750.0,East,Patna,Home Loan,2140000.0,8.14,258,23/07/2023,17590.0,Active
+LN-5057,CUST-10052,Arjun Chatterjee,Male,40,Self-Employed,105900.0,749.0,West,Surat,Home Loan,8012000.0,9.5,282,2022-11-30,71120.0,Active
+LN-5068,CUST-10332,Manish Kapoor,Male,34,Self-Employed,223400.0,637.0,North,Lucknow,Education Loan,1636000.0,9.09,114,21-Jul-2022,21480.0,Active
+LN-5196,CUST-10526,Sneha Bhat,Female,57,Business Owner,110500.0,782.0,South,Hyderabad,Personal Loan,301000.0,15.2,30,2022-02-25,12120.0,Closed
+LN-5702,CUST-10318,Sandeep Reddy,Male,35,Business Owner,67800.0,692.0,North,Chandigarh,Personal Loan,246000.0,14.39,24,02/11/2023,11860.0,Active
+LN-5708,CUST-10212,Vihaan Das,Male,37,Salaried,98300.0,563.0,West,Ahmedabad,Auto Loan,447000.0,8.84,60,2021-12-26,9240.0,Active
+LN-5742,CUST-10277,Diya Verma,Female,40,Business Owner,154500.0,567.0,South,Chennai,Gold Loan,53000.0,7.51,30,05/02/2024,1940.0,Written Off
+LN-5270,CUST-10392,Nikhil Malhotra,Male,60,Salaried,33900.0,807.0,West,Surat,Auto Loan,1489000.0,8.86,78,2022-06-16,25180.0,Active
+LN-5109,CUST-10032,Vihaan Chauhan,Male,61,Business Owner,71800.0,809.0,South,Hyderabad,Personal Loan,683000.0,12.23,12,10/16/2022,60760.0,Closed
+LN-5580,CUST-10249,Sandeep Gupta,Male,30,Self-Employed,248300.0,629.0,West,Mumbai,Business Loan,2717000.0,13.69,30,13-Apr-2021,107460.0,Closed
+LN-5617,CUST-10291,Ishaan Rao,Male,37,Business Owner,152900.0,601.0,East,Patna,Gold Loan,166000.0,10.98,18,30-Aug-2023,10040.0,Written Off
+LN-5624,CUST-10435,Shreya Patel,Female,37,Business Owner,46500.0,782.0,West,Pune,Education Loan,2280000.0,9.84,42,30-Jul-2023,64390.0,Written Off
+LN-5141,CUST-10085,Reyansh Reddy,Male,61,Business Owner,237900.0,643.0,East,Kolkata,Business Loan,4885000.0,13.09,12,2024-10-28,436520.0,Active
+LN-5340,CUST-10466,Isha Menon,Female,41,Business Owner,77000.0,777.0,North,Jaipur,Personal Loan,661000.0,13.35,18,11/02/2023,40720.0,Closed
+LN-5416,CUST-10276,Aarav Verma,Male,56,Business Owner,245700.0,769.0,North,Lucknow,Home Loan,1588000.0,10.07,294,12/27/2022,14580.0,Active
+LN-5644,CUST-10408,Priya Singh,Female,32,Salaried,210200.0,795.0,East,Guwahati,Business Loan,4976000.0,17.9,78,27/04/2022,108370.0,Active
+LN-5236,CUST-10433,Priya Joshi,Female,59,Salaried,102400.0,764.0,West,Surat,Auto Loan,1477000.0,11.71,84,2021-07-05,25840.0,Active
+LN-5390,CUST-10404,Kavya Menon,Female,42,Business Owner,155800.0,631.0,North,Delhi,Personal Loan,279000.0,12.3,42,01/01/2024,8210.0,Active
+LN-5654,CUST-10406,Anika Sharma,Female,27,Salaried,142100.0,756.0,West,Ahmedabad,Home Loan,5172000.0,8.29,138,2023-11-17,58260.0,Active
+LN-5641,CUST-10066,Rajesh Rao,Male,45,Self-Employed,230400.0,809.0,West,Surat,Auto Loan,1350000.0,10.56,78,02/03/2023,24000.0,Active
+LN-5010,CUST-10516,Aarav Bhat,Male,48,Business Owner,64400.0,679.0,East,Kolkata,Auto Loan,1742000.0,10.62,24,05/17/2022,80880.0,Closed
+LN-5490,CUST-10051,Divya Patel,Female,60,Business Owner,122400.0,561.0,West,Surat,Education Loan,570000.0,10.79,36,20-Sep-2023,18600.0,Active
+LN-5052,CUST-10525,Divya Iyer,Female,62,Self-Employed,238100.0,812.0,South,Bengaluru,Home Loan,4621000.0,8.57,168,2022-02-27,47320.0,Defaulted
+LN-5180,CUST-10110,Meera Joshi,Female,49,,151500.0,745.0,East,Guwahati,Home Loan,7394000.0,10.06,294,23-Dec-2022,67810.0,Active
+LN-5070,CUST-10042,Kavya Bose,Female,36,Self-Employed,202000.0,784.0,West,Mumbai,Personal Loan,317000.0,14.1,54,27/09/2021,7960.0,Active
+LN-5760,CUST-10164,Vivaan Iyer,Male,56,Salaried,183500.0,698.0,South,Kochi,Gold Loan,291000.0,10.19,12,12/01/2022,512200.0,Closed
+LN-5108,CUST-10531,Meera Sharma,Female,29,Self-Employed,151600.0,656.0,South,Chennai,Education Loan,1934000.0,12.37,84,15/12/2021,34520.0,Active
+LN-5012,CUST-10458,Rajesh Malhotra,Male,27,Salaried,30600.0,782.0,East,Guwahati,Personal Loan,235000.0,14.52,48,25/05/2023,6480.0,Active
+LN-5042,CUST-10267,Sneha Bose,Female,57,Business Owner,36500.0,600.0,North,Lucknow,Business Loan,1250000.0,13.44,42,26/08/2023,37470.0,Active
+LN-5373,CUST-10063,Vivaan Mehta,Male,46,Self-Employed,50500.0,561.0,North,Delhi,Personal Loan,693000.0,13.73,54,06/30/2021,17270.0,Active
+LN-5318,CUST-10484,Krishna Verma,Male,53,Self-Employed,64500.0,639.0,West,Surat,Education Loan,2069000.0,11.09,36,05/23/2022,67820.0,Active
+LN-5143,CUST-10430,Nikhil Das,Male,32,Business Owner,52600.0,808.0,East,Patna,Home Loan,4616000.0,10.48,288,2022-05-11,43900.0,Active
+LN-5382,CUST-10148,Anika Iyer,Female,35,Salaried,125000.0,741.0,North,Chandigarh,Personal Loan,420000.0,12.46,42,2022-10-17,12390.0,Active
+LN-5596,CUST-10543,Myra Chauhan,Female,56,Self-Employed,172500.0,564.0,East,Kolkata,Home Loan,6332000.0,8.24,252,2022-08-17,52910.0,Active
+LN-5543,CUST-10393,Sai Pillai,Male,62,Business Owner,102700.0,758.0,West,Surat,Gold Loan,424000.0,10.2,6,28-Oct-2024,72780.0,Active
+LN-5639,CUST-10114,Ankit Chatterjee,Male,46,Self-Employed,203800.0,774.0,West,Ahmedabad,Business Loan,1163000.0,15.43,78,2021-12-12,23700.0,Active
+LN-5274,CUST-10056,Amit Reddy,Male,50,Business Owner,92300.0,732.0,South,Kochi,Gold Loan,32000.0,7.1,18,2023-06-22,1880.0,Closed
+LN-5019,CUST-10060,VIVAAN MENON,Male,48,Salaried,32300.0,679.0,East,Bhubaneswar,Auto Loan,1062000.0,9.93,42,11-Dec-2023,30040.0,Active
+LN-5067,CUST-10469,Kritika Iyer,Female,59,Business Owner,61000.0,578.0,West,Surat,Auto Loan,320000.0,8.78,54,2024-08-14,7190.0,Active
+LN-5655,CUST-10534,Anika Mehta,Female,50,Business Owner,206600.0,657.0,North,,Business Loan,623000.0,13.44,66,29-Nov-2022,13400.0,Active
+LN-5743,CUST-10284,Vikram Kapoor,Male,43,Salaried,33000.0,719.0,East,Guwahati,Personal Loan,562000.0,14.9,48,11/20/2021,15610.0,Active
+LN-5599,CUST-10148,Isha Das,Female,44,Salaried,56600.0,569.0,South,Hyderabad,Personal Loan,722000.0,13.65,60,23-Apr-2024,16670.0,Written Off
+LN-5608,CUST-10348,Anika Nair,Female,60,Self-Employed,93400.0,612.0,North,Jaipur,Home Loan,5060000.0,8.28,156,21-Jul-2023,53070.0,Active
+LN-5591,CUST-10431,Kritika Reddy,Female,35,Salaried,38000.0,731.0,South,Hyderabad,Personal Loan,577000.0,13.83,42,06/22/2024,17410.0,Defaulted
+LN-5532,CUST-10284,Kavya Pillai,Female,31,Business Owner,160900.0,736.0,East,Kolkata,Gold Loan,358000.0,7.63,18,2023-01-08,21110.0,Closed
+LN-5192,CUST-10120,Rajesh Kapoor,Male,23,Salaried,221600.0,683.0,East, KOLKATA ,Home Loan,8253000.0,10.24,144,07/11/2024,99780.0,Defaulted
+LN-5448,CUST-10090,Aadhya Patel,Female,34,Self-Employed,206200.0,675.0,North,Lucknow,Home Loan,7092000.0,10.11,282,06/02/2021,65940.0,Active
+LN-5757,CUST-10424,Ananya Pillai,Female,25,Self-Employed,79700.0,609.0,East,Patna,Home Loan,3138000.0,9.98,132,04/09/2021,39250.0,Active
+LN-5208,CUST-10286,Manish Verma,Male,28,Self-Employed,198200.0,665.0,North,Chandigarh,Education Loan,1732000.0,9.07,48,25/09/2023,43160.0,Active
+LN-5033,CUST-10435,Manish Reddy,Male,25,Self-Employed,165900.0,729.0,West,Pune,Education Loan,710000.0,12.65,72,2023-10-27,14120.0,Active
+LN-5400,CUST-10540,Shreya Iyer,Female,26,Business Owner,208100.0,780.0,North,,Business Loan,3832000.0,12.32,66,2021-06-19,80220.0,Active
+LN-5439,CUST-10272,Kritika Chatterjee,Female,28,Business Owner,135200.0,769.0,North,Jaipur,Gold Loan,229000.0,10.43,24,2022-06-22,10610.0,Closed
+LN-5169,CUST-10284,Meera Mehta,Female,36,Self-Employed,90200.0,733.0,North,Lucknow,Personal Loan,704000.0,13.07,48,07/18/2023,18910.0,Active
+LN-5076,CUST-10073,Aadhya Bhat,Female,38,Self-Employed,140300.0,776.0,East,Kolkata,Home Loan,2665000.0,8.17,198,2024-07-02,24550.0,Active
+LN-5128,CUST-10277,Isha Joshi,Female,62,Self-Employed,161200.0,758.0,North,Delhi,Gold Loan,477000.0,8.65,24,07/30/2023,21720.0,Active
+LN-5343,CUST-10327,Kritika Rao,Female,27,Salaried,33900.0,701.0,North, CHANDIGARH ,Education Loan,387000.0,12.32,108,02-Sep-2021,5950.0,Active
+LN-5561,CUST-10238,Sandeep Mehta,Male,40,Business Owner,225500.0,705.0,South,Hyderabad,Home Loan,5462000.0,9.54,234,2024-09-20,51500.0,Active
+LN-5046,CUST-10061,Riya Chatterjee,Female,55,Salaried,84300.0,642.0,West,Surat,Home Loan,7978000.0,8.26,240,09-Apr-2022,68030.0,Defaulted
+LN-5716,CUST-10203,Ananya Iyer,Female,45,Business Owner,150600.0,784.0,North,Jaipur,Business Loan,3001000.0,14.31,66,15-Jan-2024,65940.0,Active
+LN-5158,CUST-10109,DIYA BOSE,Female,59,Salaried,44600.0,671.0,East,Kolkata,Auto Loan,343000.0,10.72,48,08-Sep-2021,8820.0,Active
+LN-5488,CUST-10532,Shreya Iyer,Female,33,Salaried,104600.0,629.0,North,Chandigarh,Business Loan,2238000.0,15.2,18,21/10/2024,139830.0,Active
+LN-5619,CUST-10099,Kritika Mehta,Female,36,Self-Employed,66700.0,638.0,East,Kolkata,Gold Loan,447000.0,9.1,18,2023-02-17,26660.0,Closed
+LN-5216,CUST-10064,Reyansh Rao,Male,25,Salaried,67700.0,729.0,East,Kolkata,Gold Loan,58000.0,9.09,36,12-Feb-2024,1850.0,Active
+LN-5406,CUST-10125,Sneha Malhotra,Female,48,Salaried,35700.0,609.0,South,Chennai,Auto Loan,719000.0,9.47,66,03/08/2023,14020.0,Active
+LN-5750,CUST-10480,Kritika Nair,Female,26,Business Owner,67400.0,748.0,South,Bengaluru,Education Loan,1091000.0,10.57,42,2024-07-06,31190.0,Active
+LN-5107,CUST-10121,Manish Menon,Male,62,Self-Employed,89300.0,757.0,North,Delhi,Home Loan,7755000.0,,186,18-Jun-2021,81610.0,Active
+LN-5623,CUST-10530,Saanvi Malhotra,Female,46,Self-Employed,42800.0,601.0,East,Guwahati,Education Loan,1746000.0,10.43,90,2024-07-13,28050.0,Active
+LN-5720,CUST-10279,Vikram Verma,Male,49,Salaried,185300.0,677.0,South,Bengaluru,Personal Loan,425000.0,15.73,24,2021-08-23,20750.0,Closed
+LN-5124,CUST-10218,Ananya Verma,Female,61,Business Owner,32100.0,599.0,north,Lucknow,Business Loan,2866000.0,17.06,54,2023-08-29,76390.0,Active
+LN-5381,CUST-10277,Anika Chauhan,Female,-38,Business Owner,189100.0,711.0,East,Kolkata,Gold Loan,330000.0,9.96,6,2023-01-16,1132200.0,Closed
+LN-5498,CUST-10000,Rahul Chatterjee,Male,61,Salaried,226300.0,786.0,West,Pune,Home Loan,6398000.0,9.32,240,2023-03-05,58890.0,Active
+LN-5707,CUST-10035,Anika Menon,Female,58,Business Owner,184200.0,700.0,West, PUNE ,Gold Loan,153000.0,7.94,12,10/09/2022,13300.0,Closed
+LN-5198,CUST-10345,Diya Bose,Female,24,Business Owner,216400.0,756.0,East, BHUBANESWAR ,Business Loan,4219000.0,13.89,54,02/23/2021,105510.0,Active
+LN-5165,CUST-10369,Vivaan Das,Male,58,Self-Employed,45700.0,686.0,East,Patna,Education Loan,618000.0,12.17,54,09/04/2024,14920.0,Active
+LN-5284,CUST-10233,Riya Patel,Female,51,Self-Employed,228100.0,714.0,East,Bhubaneswar,Gold Loan,372000.0,10.32,12,04/27/2021,32760.0,Closed
+LN-5040,CUST-10475,Priya Patel,Female,47,Self-Employed,44100.0,809.0,East,Kolkata,Home Loan,7629000.0,10.27,234,2021-01-19,75580.0,Active
+LN-5049,CUST-10256,Amit Chauhan,Male,43,Salaried,127700.0,770.0,East,Kolkata,Business Loan,2422000.0,14.87,36,06/19/2024,83810.0,Active
+LN-5355,CUST-10515,Isha Nair,Female,44,Salaried,103900.0,797.0,East,Kolkata,Auto Loan,1688000.0,10.94,60,2021-10-11,36650.0,Active
+LN-5552,CUST-10445,Vivaan Bose,Male,36,Business Owner,106900.0,686.0,East,Guwahati,Home Loan,6773000.0,9.34,276,10/21/2023,59750.0,Active
+LN-5752,CUST-10493,Ishaan Sharma,Male,37,Self-Employed,110200.0,749.0,South,Hyderabad,Personal Loan,569000.0,13.47,36,26-Jan-2024,19300.0,Active
+LN-5579,CUST-10385,Reyansh Pillai,Male,47,Self-Employed,28800.0,563.0,North,Delhi,Home Loan,2026000.0,8.24,186,03/25/2022,19320.0,Active
+LN-5547,CUST-10414,Simran Chauhan,Female,61,Business Owner,51600.0,791.0,West, MUMBAI ,Auto Loan,582000.0,10.14,42,03/22/2021,16520.0,Closed
+LN-5637,CUST-10401,Pooja Bose,Female,56,Self-Employed,214400.0,765.0,South,Bengaluru,Education Loan,821000.0,10.96,48,17-Jul-2022,21200.0,Active
+LN-5103,CUST-10075,Riya Malhotra,Female,47,Self-Employed,151800.0,693.0,East,Kolkata,Business Loan,4318000.0,16.76,54,13/02/2024,114400.0,Active
+LN-5411,CUST-10543,Rohan Verma,Male,43,Salaried,222500.0,721.0,West,Mumbai,Business Loan,3206000.0,12.52,54,01/08/2023,77960.0,Active
+LN-5127,CUST-10022,Manish Nair,Male,61,Self-Employed,237000.0,585.0,East,Patna,Personal Loan,769000.0,13.41,12,2023-12-25,68830.0,Closed
+LN-5622,CUST-10534,Sai Sharma,Male,28,Salaried,239100.0,633.0,North, LUCKNOW ,Education Loan,1666000.0,11.17,36,05/15/2021,54680.0,Closed
+LN-5754,CUST-10300,Kritika Mehta,Female,51,Business Owner,177000.0,813.0,North,Delhi,Business Loan,4754000.0,15.74,24,03/21/2022,232180.0,Closed
+LN-5330,CUST-10496,Sai Kapoor,Male,51,Business Owner,192200.0,592.0,East,Guwahati,Auto Loan,723000.0,,72,10/02/2022,14070.0,Active
+LN-5199,CUST-10506,Myra Rao,Female,41,Self-Employed,168000.0,761.0,South,Kochi,Gold Loan,135000.0,10.19,36,12/12/2023,4370.0,Active
+LN-5252,CUST-10524,GAURAV CHATTERJEE,Male,56,Business Owner,151100.0,623.0,East,Patna,Auto Loan,620000.0,8.71,36,09/08/2023,19630.0,Active
+LN-5380,CUST-10039,KRISHNA MALHOTRA,Male,59,Self-Employed,116200.0,606.0,east, GUWAHATI ,Auto Loan,1125000.0,10.03,84,01/09/2024,18690.0,Active
+LN-5419,CUST-10235,Krishna Singh,Male,49,Self-Employed,150900.0,727.0,West,Surat,Auto Loan,892000.0,9.12,24,27/10/2024,40800.0,Active
+LN-5484,CUST-10364,Kritika Joshi,Female,42,Self-Employed,227500.0,671.0,East,Patna,Gold Loan,449000.0,8.45,30,2022-07-20,16660.0,Active
+LN-5472,CUST-10245,Vivaan Bose,Male,45,Self-Employed,176600.0,640.0,south,Bengaluru,Gold Loan,355000.0,8.87,36,2021-08-07,11270.0,Closed
+LN-5670,CUST-10118,Shreya Singh,Female,29,Business Owner,134700.0,684.0,South,Chennai,Home Loan,3307000.0,9.17,210,05/12/2021,31670.0,Active
+LN-5356,CUST-10471,Karan Reddy,Male,48,Business Owner,104000.0,781.0,West,Surat,Auto Loan,981000.0,9.4,24,2022-01-01,45000.0,Closed
+LN-5009,CUST-10457,ADITYA IYER,Male,42,Business Owner,237000.0,762.0,West,Pune,Education Loan,2254000.0,11.48,48,12/01/2022,58780.0,Active
+LN-5065,CUST-10052,Rohan Malhotra,Male,41,Business Owner,186700.0,739.0,East,Kolkata,Education Loan,1868000.0,11.13,42,14-May-2024,53900.0,Active
+LN-5224,CUST-10256,Nikhil Pillai,Male,42,Self-Employed,131100.0,592.0,North, JAIPUR ,Business Loan,3576000.0,15.42,12,2024-02-29,323470.0,Written Off
+LN-5276,CUST-10439,Tanya Malhotra,Female,59,Salaried,185300.0,579.0,South,Kochi,Auto Loan,986000.0,11.58,78,28-Oct-2022,18050.0,Active
+LN-5161,CUST-10566,Priya Bose,Female,39,Self-Employed,236300.0,790.0,West,Mumbai,Education Loan,1266000.0,12.67,96,10-Apr-2024,21040.0,Written Off
+LN-5464,CUST-10403,Kritika Sharma,Female,51,Business Owner,101600.0,655.0,North,Chandigarh,Gold Loan,41000.0,10.31,12,05/09/2024,3610.0,Active
+LN-5017,CUST-10003,Priya Nair,Female,42,Salaried,118900.0,685.0,east,Kolkata,Home Loan,5812000.0,10.06,228,2023-08-16,57260.0,Active
+LN-5214,CUST-10539,MEERA BHAT,Female,50,Business Owner,156300.0,785.0,West,Mumbai,Education Loan,348000.0,11.17,66,11/09/2022,7080.0,Active
+LN-5202,CUST-10083,Riya Malhotra,Female,55,Business Owner,180300.0,752.0,North,Lucknow,Auto Loan,699000.0,11.11,84,10/29/2022,12010.0,Active
+LN-5529,CUST-10086,Sai Joshi,Male,51,Business Owner,140300.0,585.0,South,Chennai,Business Loan,3175000.0,15.94,24,11/21/2024,155370.0,Closed
+LN-5237,CUST-10348,VIVAAN CHATTERJEE,Male,35,Self-Employed,172500.0,616.0,West,Mumbai,Education Loan,332000.0,10.04,84,07/13/2021,5520.0,Active
+LN-5756,CUST-10039,Vihaan Rao,Male,26,Business Owner,237300.0,793.0,South,Kochi,Gold Loan,209000.0,10.89,30,2024-10-20,7990.0,Active
+LN-5314,CUST-10380,Karan Bhat,Male,25,Business Owner,184000.0,748.0,West,Ahmedabad,Business Loan,2171000.0,16.23,78,05/09/2023,45220.0,Active
+LN-5410,CUST-10373,Ishaan Mehta,Male,41,Salaried,144700.0,676.0,North,Jaipur,Home Loan,7190000.0,9.44,168,03/09/2024,77280.0,Defaulted
+LN-5516,CUST-10094,Aarav Mehta,Male,62,Salaried,96300.0,747.0,South,Chennai,Business Loan,2232000.0,16.96,72,01-Apr-2024,49600.0,Active
+LN-5489,CUST-10161,Sneha Mehta,Female,43,Self-Employed,217600.0,816.0,West, AHMEDABAD ,Business Loan,1360000.0,15.21,36,21-Oct-2024,47280.0,Active
+LN-5741,CUST-10214,Priya Das,Female,24,Self-Employed,196600.0,638.0,North, JAIPUR ,Gold Loan,409000.0,8.56,36,10/20/2021,12920.0,Closed
+LN-5209,CUST-10221,Arjun Chatterjee,Male,41,Salaried,62800.0,668.0,East,Patna,Education Loan,1142000.0,10.65,36,2021-10-11,37200.0,Closed
+LN-5728,CUST-10310,Karan Mehta,Male,56,Business Owner,245000.0,757.0,west,Mumbai,Gold Loan,428000.0,10.01,18,2023-10-01,25710.0,Active
+LN-5633,CUST-10366,Saanvi Kapoor,Female,25,,195000.0,788.0,West,Ahmedabad,Gold Loan,35000.0,,30,29-Jun-2022,1300.0,Closed
+LN-5485,CUST-10168,Kavya Rao,Female,61,Business Owner,70500.0,669.0,West,Mumbai,Auto Loan,1355000.0,8.94,24,27-Jul-2022,61870.0,Closed
+LN-5465,CUST-10341,POOJA BHAT,Female,50,Salaried,218800.0,601.0,East,Bhubaneswar,Personal Loan,416000.0,15.58,30,08/12/2022,16830.0,Active
+LN-5664,CUST-10501,Priya Kapoor,Female,56,Self-Employed,91500.0,666.0,East, BHUBANESWAR ,Gold Loan,427000.0,10.11,36,05/21/2023,13800.0,Active
+LN-5378,CUST-10137,Shreya Verma,Female,32,Salaried,216700.0,738.0,West,Ahmedabad,Auto Loan,1453000.0,9.91,24,23/01/2021,66990.0,Closed
+LN-5003,CUST-10240,Reyansh Reddy,Male,58,Self-Employed,150800.0,758.0,North,Delhi,Home Loan,4059000.0,8.37,222,04/19/2023,36010.0,Active
+LN-5409,CUST-10523,Ritu Das,Female,61,Salaried,139900.0,566.0,West,Mumbai,Education Loan,1543000.0,10.66,72,08/06/2024,29100.0,Active
+LN-5186,CUST-10068,Amit Kapoor,Male,56,Business Owner,161200.0,801.0,East,Patna,Education Loan,906000.0,9.19,66,07-Oct-2022,17540.0,Active
+LN-5540,CUST-10233,Neha Gupta,Female,47,Business Owner,193600.0,819.0,East,Patna,Business Loan,373000.0,15.24,72,2024-01-03,7940.0,Active
+LN-5538,CUST-10241,MANISH MEHTA,Male,36,Self-Employed,124500.0,769.0,East,Patna,Auto Loan,1585000.0,11.45,66,2022-08-22,32480.0,Active
+LN-5265,CUST-10521,Anika Verma,Female,61,Self-Employed,59900.0,703.0,East,Patna,Business Loan,4760000.0,14.93,54,27/02/2021,121580.0,Active
+LN-5645,CUST-10320,Karan Bhat,Male,48,Salaried,169200.0,735.0,South,Hyderabad,Personal Loan,485000.0,12.18,18,30/06/2022,29620.0,Closed
+LN-5507,CUST-10454,Saanvi Singh,Female,58,Business Owner,41400.0,721.0,South,Kochi,Business Loan,513000.0,15.43,72,15-Oct-2023,10970.0,Active
+LN-5705,CUST-10233,Shreya Iyer,Female,55,Salaried,223500.0,643.0,West,Mumbai,Auto Loan,577000.0,8.91,84,01/13/2022,9260.0,Written Off
+LN-5081,CUST-10471,Vihaan Mehta,Male,48,Salaried,102400.0,735.0,West,Mumbai,Personal Loan,232000.0,15.03,24,2021-04-21,11250.0,Closed
+LN-5598,CUST-10204,ANIKA MEHTA,Female,37,Salaried,48900.0,620.0,South,Bengaluru,Auto Loan,1248000.0,,66,08/26/2022,23740.0,Active
+LN-5144,CUST-10259,VIVAAN MENON,Male,51,Business Owner,60500.0,683.0,east,Guwahati,Gold Loan,119000.0,7.32,6,11/17/2021,20260.0,Closed
+LN-5262,CUST-10542,Diya Pillai,Female,49,Salaried,178400.0,636.0,North,Lucknow,Auto Loan,1060000.0,8.59,66,2021-12-10,20210.0,Active
+LN-5497,CUST-10355,Gaurav Das,Male,41,Business Owner,130400.0,585.0,North,Chandigarh,Auto Loan,1483000.0,10.09,72,21/01/2024,27540.0,Written Off
+LN-5386,CUST-10428,Anika Singh,Female,53,Business Owner,117100.0,740.0,West,Pune,Personal Loan,319000.0,15.97,42,2024-03-28,9960.0,Active
+LN-5427,CUST-10243,Krishna Bose,Male,55,Salaried,244200.0,729.0,West,Surat,Auto Loan,447000.0,10.04,78,2022-07-08,7830.0,Active
+LN-5383,CUST-10265,Rohan Singh,Male,50,Salaried,144400.0,605.0,East,Guwahati,Gold Loan,490000.0,7.03,24,27-Apr-2021,21950.0,Closed
+LN-5063,CUST-10208,Rajesh Sharma,Male,49,Business Owner,32900.0,807.0,North,Jaipur,Business Loan,2323000.0,15.54,24,2024-08-25,113230.0,Active
+LN-5477,CUST-10204,Amit Mehta,Male,45,Salaried,66500.0,605.0,South,Bengaluru,Education Loan,1933000.0,12.41,60,04/03/2022,43400.0,Active
+LN-5555,CUST-10443,Priya Chatterjee,Female,30,Business Owner,111900.0,677.0,North,Lucknow,Business Loan,2050000.0,15.07,36,02-Mar-2023,71130.0,Active
+LN-5178,CUST-10245,Meera Chauhan,Female,23,Self-Employed,121000.0,630.0,South,Bengaluru,Auto Loan,1779000.0,10.74,48,08/30/2024,45750.0,Active
+LN-5118,CUST-10204,Vihaan Nair,Male,60,Salaried,206400.0,635.0,South, CHENNAI ,Home Loan,8019000.0,8.18,270,09/25/2024,65050.0,Active
+LN-5352,CUST-10152,VIKRAM CHAUHAN,Male,25,Business Owner,44100.0,729.0,East,Kolkata,Home Loan,6013000.0,10.29,210,04/26/2024,61860.0,Active
+LN-5575,CUST-10174,Meera Iyer,Female,26,Business Owner,240500.0,678.0,North,Jaipur,Gold Loan,391000.0,10.5,30,18/01/2022,14880.0,Closed
+LN-5573,CUST-10066,Manish Joshi,Male,50,Self-Employed,135700.0,803.0,North,Jaipur,Auto Loan,1553000.0,11.1,24,07/31/2021,72450.0,Closed
+LN-5533,CUST-10367,Rajesh Rao,Male,27,Salaried,48600.0,647.0,East,Patna,Education Loan,448000.0,9.21,114,2021-06-14,5910.0,Active
+LN-5511,CUST-10003,Neha Kapoor,Female,31,Business Owner,132800.0,637.0,South,Hyderabad,Business Loan,673000.0,15.66,18,01/08/2022,42190.0,Closed
+LN-5725,CUST-10514,Neha Sharma,Female,24,Business Owner,220400.0,817.0,West,Pune,Education Loan,1755000.0,12.63,54,03/08/2021,42770.0,Active
+LN-5274,CUST-10056,Amit Reddy,Male,50,Business Owner,92300.0,732.0,South,Kochi,Gold Loan,32000.0,7.1,18,2023-06-22,1880.0,Closed
+LN-5324,CUST-10105,ARJUN IYER,Male,28,Salaried,190300.0,789.0,North,Lucknow,Gold Loan,114000.0,7.55,30,06/10/2023,4180.0,Active
+LN-5209,CUST-10221,Arjun Chatterjee,Male,41,Salaried,62800.0,668.0,East,Patna,Education Loan,1142000.0,10.65,36,2021-10-11,37200.0,Closed
+LN-5662,CUST-10191,KRITIKA CHAUHAN,Female,51,Salaried,93100.0,680.0,West,Pune,Home Loan,3025000.0,8.71,246,28-Oct-2023,26420.0,Active
+LN-5473,CUST-10015,Riya Mehta,Female,40,Business Owner,127300.0,759.0,East,Kolkata,Auto Loan,1526000.0,11.72,30,03-May-2023,58930.0,Active
+LN-5273,CUST-10271,Krishna Mehta,Male,43,Business Owner,234800.0,715.0,East,Bhubaneswar,Business Loan,713000.0,12.22,54,03-Apr-2024,17230.0,Active
+LN-5563,CUST-10138,Krishna Menon,Male,45,Business Owner,80700.0,669.0,North,Jaipur,Personal Loan,726000.0,12.12,24,01/12/2021,34220.0,Closed
+LN-5597,CUST-10128,Simran Chatterjee,Female,43,Business Owner,105200.0,647.0,South,Chennai,Auto Loan,1566000.0,9.63,72,21/06/2024,28720.0,Active
+LN-5546,CUST-10098,SAI CHAUHAN,Male,26,Self-Employed,181800.0,766.0,North,Delhi,Home Loan,6600000.0,8.57,180,2024-03-07,65260.0,Active
+LN-5692,CUST-10361,Ananya Joshi,Female,40,Salaried,30400.0,702.0,South,Bengaluru,Business Loan,4813000.0,15.02,60,26-Mar-2022,114550.0,Active
+LN-5136,CUST-10283,Neha Gupta,Female,54,Business Owner,136700.0,584.0,South,Hyderabad,Gold Loan,25000.0,8.84,12,12-Aug-2023,2180.0,Closed
+LN-5457,CUST-10093,Riya Chatterjee,Female,45,Business Owner,209400.0,693.0,East,Kolkata,Auto Loan,907000.0,10.34,42,30/04/2021,25830.0,Closed
+ln-5504,CUST-10084,Gaurav Das,Male,39,Salaried,192600.0,805.0,South, BENGALURU ,Gold Loan,127000.0,10.56,36,23-Jan-2024,4130.0,Active
+LN-5461,CUST-10255,AADHYA SINGH,Female,31,Business Owner,214100.0,671.0,West,Pune,Home Loan,2111000.0,9.07,210,01-Jan-2021,20090.0,Active
+LN-5440,CUST-10169,Rajesh Verma,Male,56,Business Owner,107300.0,590.0,West,Pune,Gold Loan,158000.0,9.79,12,2023-06-25,13880.0,Closed
+LN-5737,CUST-10322,Simran Mehta,Female,44,Self-Employed,28300.0,665.0,North, LUCKNOW ,Education Loan,520000.0,11.35,120,25-May-2024,7270.0,Active
+LN-5482,CUST-10203,Kavya Gupta,Female,38,Salaried,123100.0,636.0,North,Jaipur,Personal Loan,449000.0,11.12,36,03/07/2023,14730.0,Active
+LN-5593,CUST-10529,Kavya Kapoor,Female,23,Salaried,153300.0,580.0,west,Surat,Personal Loan,641000.0,11.64,30,09/02/2024,24730.0,Active
+LN-5724,CUST-10002,Aadhya Pillai,Female,53,Business Owner,138100.0,652.0,East, GUWAHATI ,Gold Loan,354000.0,10.89,24,24-Aug-2024,16480.0,Active
+LN-5584,CUST-10447,Ananya Chauhan,Female,28,Self-Employed,247500.0,710.0,West,Ahmedabad,Personal Loan,112000.0,15.57,36,01/12/2022,3910.0,Active
+LN-5626,CUST-10483,Krishna Bhat,Male,23,Self-Employed,198200.0,777.0,East,Kolkata,Auto Loan,1592000.0,9.99,78,23/03/2023,27830.0,Active
+LN-5056,CUST-10404,Aarav Chauhan,Male,39,Salaried,57400.0,693.0,North,Jaipur,Personal Loan,154000.0,15.56,30,07/09/2023,6230.0,Active
+LN-5704,CUST-10420,Ananya Bose,Female,59,Self-Employed,204800.0,624.0,West,Surat,Home Loan,3554000.0,9.25,186,07/23/2023,36030.0,Active
+LN-5235,CUST-10088,Ishaan Bhat,Male,60,Self-Employed,104200.0,711.0,West,Mumbai,Personal Loan,581000.0,13.45,30,09/28/2024,22910.0,Active
+LN-5699,CUST-10172,Meera Malhotra,Female,43,Business Owner,223800.0,791.0,East,Patna,Personal Loan,590000.0,11.64,54,04/06/2024,14090.0,Active
+LN-5156,CUST-10552,Neha Das,Female,32,Self-Employed,36500.0,600.0,North,Jaipur,Gold Loan,195000.0,10.19,24,26-Nov-2022,9020.0,Closed
+LN-5271,CUST-10068,Priya Joshi,Female,39,Business Owner,175600.0,578.0,North,Delhi,Education Loan,2177000.0,10.19,72,08-Feb-2021,40540.0,Active
+LN-5609,CUST-10128,Diya Reddy,Female,26,Self-Employed,41500.0,768.0,East,Bhubaneswar,Personal Loan,113000.0,14.9,60,14-Nov-2023,2680.0,Active
+LN-5364,CUST-10309,Simran Reddy,Female,54,Self-Employed,160400.0,761.0,North, JAIPUR ,Business Loan,347000.0,16.24,42,12-Nov-2023,10890.0,Active
+LN-5683,CUST-10324,SANDEEP SINGH,Male,48,Salaried,182000.0,577.0,South,Hyderabad,Home Loan,1567000.0,9.53,252,12-Oct-2023,14410.0,Active
+LN-5336,CUST-10329,Aadhya Kapoor,Female,51,Salaried,128500.0,811.0,West,Pune,Gold Loan,417000.0,7.48,12,03/17/2023,36170.0,Closed
+LN-5554,CUST-10547,Rohan Iyer,Male,32,Business Owner,218800.0,632.0,north,Lucknow,Home Loan,2214000.0,10.04,192,2022-08-10,23210.0,Active
+LN-5706,CUST-10363,Rohan Pillai,Male,35,Salaried,142000.0,815.0,East,Guwahati,Home Loan,4757000.0,9.89,180,2022-11-24,50800.0,Active
+LN-5170,CUST-10323,Sandeep Das,Male,51,Self-Employed,68900.0,707.0,West,Mumbai,Auto Loan,1618000.0,10.14,78,19/03/2024,28410.0,Active
+LN-5585,CUST-10316,Amit Sharma,Male,33,Self-Employed,74800.0,703.0,West,Surat,Education Loan,531000.0,12.22,48,10/03/2022,14040.0,Active
+LN-5500,CUST-10551,Riya Das,Female,38,Salaried,88300.0,719.0,East,Patna,Education Loan,2299000.0,10.53,90,09/13/2021,37050.0,Active
+LN-5455,CUST-10323,Diya Bose,Female,57,Salaried,85000.0,709.0,south,Bengaluru,Education Loan,1824000.0,11.68,48,02/06/2022,47750.0,Active
+LN-5344,CUST-10137,Anika Nair,Female,36,Business Owner,141100.0,602.0,South,Bengaluru,Auto Loan,1652000.0,11.44,72,28-Nov-2023,31820.0,Active
+LN-5213,CUST-10014,Krishna Malhotra,Male,36,Self-Employed,177000.0,698.0,South,Bengaluru,Business Loan,4472000.0,15.37,54,08/29/2023,115240.0,Defaulted
+LN-5375,CUST-10254,Vikram Verma,Male,61,Self-Employed,223400.0,797.0,North,Lucknow,Education Loan,1794000.0,10.04,90,15/03/2023,28450.0,Active
+LN-5345,CUST-10425,Karan Bose,Male,28,Self-Employed,85800.0,635.0,North,Chandigarh,Auto Loan,1684000.0,10.54,24,28/12/2021,78130.0,Closed
+LN-5212,CUST-10534,ANIKA SHARMA,Female,41,Self-Employed,36300.0,801.0,West,Ahmedabad,Home Loan,4241000.0,9.97,294,2023-09-27,38630.0,Active
+LN-5468,CUST-10461,Sandeep Kapoor,Male,32,Business Owner,58900.0,631.0,South,Chennai,Education Loan,1062000.0,11.74,102,13/03/2022,16500.0,Active
+LN-5388,CUST-10369,Nikhil Verma,Male,48,Self-Employed,171900.0,617.0,South,Bengaluru,Business Loan,2787000.0,14.95,72,10/15/2021,58860.0,Active
+LN-5125,CUST-10331,Aadhya Singh,Female,28,Business Owner,171000.0,741.0,South,Bengaluru,Home Loan,5244000.0,9.31,234,09/10/2022,48660.0,Active
+LN-5201,CUST-10225,Vihaan Iyer,Male,46,Salaried,82500.0,750.0,south,Bengaluru,Auto Loan,1142000.0,10.11,30,2023-05-20,43240.0,Active
+LN-5395,CUST-10405,Sandeep Pillai,Male,31,Business Owner,,793.0,South,Kochi,Auto Loan,1667000.0,9.55,54,07-Sep-2023,38100.0,Active
+LN-5111,CUST-10374,Ishaan Bhat,Male,35,Business Owner,185100.0,680.0,East,Guwahati,Home Loan,7695000.0,9.93,210,04/10/2022,77390.0,Active
+LN-5015,CUST-10029,Kritika Mehta,Female,38,Business Owner,179800.0,754.0,South,Chennai,Home Loan,8555000.0,9.17,198,02-Aug-2023,83980.0,Active
+LN-5602,CUST-10558,RAJESH DAS,Male,60,Salaried,33100.0,573.0,South,Kochi,Business Loan,3232000.0,16.03,42,23-Nov-2022,101050.0,Active
+LN-5430,CUST-10186,Ankit Mehta,Male,34,Salaried,164300.0,692.0,West,Ahmedabad,Gold Loan,440000.0,10.91,36,2023-03-25,14390.0,Active
+LN-5711,CUST-10511,ISHAAN BHAT,Male,52,Self-Employed,89600.0,743.0,west,Mumbai,Home Loan,8674000.0,8.35,150,13/12/2021,93350.0,Active
+LN-5264,CUST-10432,Rohan Gupta,Male,32,Business Owner,56800.0,687.0,east,Kolkata,Home Loan,3109000.0,8.11,252,08/27/2024,25720.0,Active
+LN-5297,CUST-10462,Pooja Singh,Female,30,Self-Employed,133800.0,694.0,East,Guwahati,Home Loan,2465000.0,8.53,300,04/09/2021,19900.0,Active
+LN-5138,CUST-10548,Anika Das,Female,33,Salaried,155900.0,741.0,East,Bhubaneswar,Business Loan,2171000.0,14.6,48,09-Nov-2022,59980.0,Active
+LN-5475,CUST-10292,NIKHIL JOSHI,Male,52,Self-Employed,156200.0,608.0,West,Surat,Home Loan,3051000.0,8.92,234,2022-12-26,27550.0,Active
+LN-5691,CUST-10338,Sandeep Chauhan,Male,56,Business Owner,97300.0,760.0,West,Ahmedabad,Business Loan,3458000.0,16.94,54,18/06/2023,91950.0,Active
+LN-5023,CUST-10379,Kavya Patel,Female,62,Business Owner,129500.0,813.0,South,Kochi,Home Loan,6381000.0,8.63,198,02/14/2023,60540.0,Active
+LN-5080,CUST-10468,Ritu Menon,Female,28,Salaried,210000.0,571.0,North,Chandigarh,Business Loan,4500000.0,13.12,72,08/23/2023,90620.0,Active
+LN-5231,CUST-10378,Simran Joshi,Female,23,Business Owner,110500.0,655.0,West,Surat,Home Loan,6831000.0,8.26,138,2023-07-06,76840.0,Active
+LN-5735,CUST-10046,Ankit Verma,Male,61,Business Owner,217800.0,719.0,East,Kolkata,Business Loan,1249000.0,12.93,66,05/11/2021,26540.0,Active
+LN-5481,CUST-10291,Saanvi Menon,Female,46,Self-Employed,46500.0,806.0,North,Jaipur,Gold Loan,269000.0,9.02,30,12/18/2021,10050.0,Closed
+LN-5247,CUST-10214,Arjun Nair,Male,36,Salaried,215400.0,722.0,North,Chandigarh,Education Loan,1430000.0,9.9,78,30-Jan-2021,24930.0,Active
+LN-5517,CUST-10251,Aadhya Mehta,Female,35,Business Owner,107600.0,618.0,North,Lucknow,Personal Loan,778000.0,13.09,48,23/03/2024,20910.0,Active
+ln-5394,CUST-10226,Vikram Bhat,Male,61,Salaried,174000.0,658.0,East,Bhubaneswar,Gold Loan,364000.0,10.82,36,02-Jun-2023,11890.0,Active
+LN-5393,CUST-10475,TANYA MENON,Female,38,Salaried,145300.0,709.0,South,Chennai,Business Loan,3103000.0,15.73,42,24/01/2021,96550.0,Closed
+LN-5449,CUST-10280,Rahul Kapoor,Male,28,Business Owner,142700.0,566.0,North,Lucknow,Personal Loan,633000.0,12.47,18,24/01/2022,38740.0,Closed
+LN-5526,CUST-10160,Riya Reddy,Female,37,,39500.0,590.0,south,Hyderabad,Personal Loan,394000.0,11.63,42,20/11/2023,11460.0,Defaulted
+ln-5286,CUST-10391,Rahul Malhotra,Male,43,Self-Employed,50100.0,817.0,West,Ahmedabad,Business Loan,2833000.0,17.66,18,03/25/2024,180300.0,Active
+LN-5279,CUST-10295,Priya Pillai,Female,58,Self-Employed,158300.0,577.0,West,Ahmedabad,Personal Loan,732000.0,11.18,30,14/09/2023,28080.0,Active
+LN-5232,CUST-10293,Aadhya Bose,Female,33,Business Owner,220900.0,560.0,east,Bhubaneswar,Auto Loan,1037000.0,11.85,84,26/11/2022,18220.0,Active
+LN-5084,CUST-10273,Vivaan Gupta,Male,50,Self-Employed,129100.0,646.0,North,Delhi,Education Loan,1987000.0,11.45,36,01/07/2023,65480.0,Written Off
+LN-5605,CUST-10149,Reyansh Chatterjee,Male,51,Business Owner,45900.0,634.0,south,Bengaluru,Personal Loan,723000.0,15.89,60,04/28/2023,17540.0,Active
+LN-5102,CUST-10324,Arjun Mehta,Male,30,Business Owner,107100.0,700.0,West,Ahmedabad,Business Loan,3805000.0,13.0,18,08/01/2022,233810.0,Closed
+LN-5422,CUST-10309,Ritu Bose,Female,59,Salaried,98200.0,745.0,North,Chandigarh,Education Loan,2256000.0,12.76,84,19/04/2022,40750.0,Active
+LN-5132,CUST-10485,Ishaan Bhat,Male,58,Business Owner,128400.0,686.0,North,Delhi,Home Loan,4381000.0,9.8,300,05-Feb-2024,39190.0,Active
+LN-5703,CUST-10199,Manish Rao,Male,39,Salaried,52300.0,725.0,west,Ahmedabad,Business Loan,2174000.0,12.84,54,2024-01-08,53210.0,Active
+LN-5083,CUST-10046,Gaurav Iyer,Male,26,Self-Employed,235800.0,,West,Mumbai,Business Loan,2533000.0,16.93,30,10/03/2023,104140.0,Active
+LN-5194,CUST-10425,Aditya Pillai,Male,26,Salaried,51600.0,790.0,East,Bhubaneswar,Personal Loan,469000.0,15.56,18,2024-03-28,29380.0,Active
+LN-5431,CUST-10193,Sneha Bhat,Female,28,Salaried,179000.0,585.0,North,Lucknow,Education Loan,909000.0,9.17,66,16/02/2024,17590.0,Active
+LN-5121,CUST-10519,Karan Bhat,Male,52,Business Owner,189500.0,708.0,South,Chennai,Auto Loan,1679000.0,8.51,78,22-Dec-2022,28100.0,Active
+LN-5759,CUST-10379,Isha Sharma,Female,27,Self-Employed,134600.0,649.0,East,Patna,Gold Loan,466000.0,10.23,24,04-Sep-2022,21550.0,Closed
+LN-5243,CUST-10367,Simran Patel,Female,28,Salaried,149700.0,630.0,east,Kolkata,Education Loan,1287000.0,10.91,96,08/09/2024,20150.0,Defaulted
+LN-5525,CUST-10277,Saanvi Chauhan,Female,40,Salaried,209500.0,592.0,East,Patna,Personal Loan,141000.0,15.07,12,27-Oct-2022,12730.0,Closed
+LN-5587,CUST-10162,Priya Bose,Female,26,Business Owner,135100.0,682.0,East,Kolkata,Auto Loan,376000.0,10.58,24,04/12/2022,17450.0,Closed
+LN-5093,CUST-10301,Ananya Malhotra,Female,59,Salaried,231700.0,,East,Kolkata,Business Loan,4095000.0,17.44,84,2023-07-18,84730.0,Active
+LN-5304,CUST-10224,Vihaan Patel,Male,53,Self-Employed,220800.0,723.0,East,Bhubaneswar,Auto Loan,1381000.0,11.37,30,11-Mar-2022,53100.0,Closed
+LN-5306,CUST-10257,Divya Patel,Female,23,Business Owner,34300.0,803.0,East,Guwahati,Business Loan,1014000.0,14.8,66,18/09/2024,22550.0,Written Off
+LN-5311,CUST-10336,Aditya Gupta,Male,30,Salaried,214100.0,750.0,West,Pune,Gold Loan,95000.0,7.97,30,2023-04-02,3500.0,Active
+LN-5248,CUST-10227,Vikram Gupta,Male,29,Self-Employed,133800.0,693.0,North,Lucknow,Auto Loan,1723000.0,8.78,30,10/23/2023,64180.0,Active
+LN-5640,CUST-10329,Sneha Chatterjee,Female,33,Self-Employed,62400.0,670.0,West,Ahmedabad,Gold Loan,254000.0,9.18,18,2021-06-02,15160.0,Closed
+LN-5404,CUST-10496,Isha Patel,Female,38,Self-Employed,127900.0,720.0,East,Kolkata,Personal Loan,324000.0,13.18,18,2021-10-25,19940.0,Closed
+LN-5365,CUST-10419,Ananya Bose,Female,47,Business Owner,37100.0,714.0,South,Chennai,Business Loan,4382000.0,16.42,42,08/28/2022,137860.0,Active
+LN-5399,CUST-10120,DIVYA VERMA,Female,36,Business Owner,59300.0,738.0,South,Hyderabad,Education Loan,779000.0,11.85,60,24-Nov-2021,17270.0,Active
+LN-5359,CUST-10326,Rahul Malhotra,Male,50,Salaried,127500.0,688.0,West,Ahmedabad,Business Loan,4675000.0,13.63,48,23/06/2024,126890.0,Active
+LN-5612,CUST-10369,Meera Bose,Female,54,Self-Employed,193400.0,669.0,East,Guwahati,Business Loan,3601000.0,12.87,18,2024-07-19,221050.0,Active
+LN-5226,CUST-10103,Riya Gupta,Female,40,Salaried,196900.0,660.0,West,Mumbai,Business Loan,4874000.0,17.8,24,09-Oct-2021,242860.0,Closed
+LN-5060,CUST-10068,Neha Joshi,Female,34,Business Owner,218500.0,743.0,West,Surat,Business Loan,4156000.0,13.33,72,15/11/2023,84150.0,Active
+LN-5112,CUST-10204,Krishna Bhat,Male,45,Salaried,73800.0,723.0,East,Kolkata,Business Loan,4212000.0,12.48,84,30/03/2021,75440.0,Active
+LN-5335,CUST-10226,Riya Chatterjee,Female,36,Business Owner,208300.0,692.0,West,Pune,Home Loan,7688000.0,10.27,174,28/07/2024,85120.0,Active
+LN-5582,CUST-10511,Krishna Mehta,Male,55,Salaried,242900.0,810.0,East,Guwahati,Personal Loan,149000.0,12.04,36,05-Feb-2022,4950.0,Active
+LN-5032,CUST-10270,Anika Verma,Female,60,Salaried,134500.0,630.0,north,Lucknow,Business Loan,1002000.0,13.85,18,07/07/2022,61970.0,Closed
+LN-5333,CUST-10452,VIVAAN CHATTERJEE,Male,54,Self-Employed,216100.0,641.0,East,Patna,Business Loan,1631000.0,14.37,60,04/10/2024,38260.0,Active
+LN-5013,CUST-10087,Manish Patel,Male,61,Salaried,200400.0,694.0,East,Bhubaneswar,Home Loan,5109000.0,9.25,174,2024-06-12,53430.0,Active
+LN-5413,CUST-10214,Neha Gupta,Female,56,,239200.0,802.0,West,Mumbai,Gold Loan,278000.0,9.1,12,16-Apr-2022,24320.0,Closed
+LN-5153,CUST-10110,Sneha Gupta,Female,53,Self-Employed,104700.0,639.0,West,Pune,Home Loan,5484000.0,10.17,204,05-May-2022,56590.0,Active
+LN-5137,CUST-10157,VIVAAN REDDY,Male,35,Self-Employed,67400.0,563.0,north,Jaipur,Home Loan,8558000.0,9.74,156,2024-05-09,96930.0,Active
+LN-5293,CUST-10111,Vihaan Bose,Male,40,Business Owner,218500.0,737.0,North,Chandigarh,Home Loan,8762000.0,9.35,222,13-Apr-2024,83110.0,Active
+ln-5387,CUST-10460,Meera Bhat,Female,36,Business Owner,183200.0,649.0,North,Jaipur,Auto Loan,1104000.0,11.36,48,01/30/2024,28730.0,Active
+LN-5524,CUST-10512,Reyansh Rao,Male,52,Self-Employed,234200.0,802.0,west,Ahmedabad,Auto Loan,1345000.0,10.84,66,11/13/2021,27140.0,Active
+LN-5600,CUST-10105,Aadhya Das,Female,43,Self-Employed,212900.0,625.0,East,Kolkata,Business Loan,3690000.0,12.28,18,10/10/2023,225500.0,Active
+LN-5709,CUST-10416,Kavya Das,Female,56,Salaried,,679.0,South,Bengaluru,Gold Loan,81000.0,10.7,30,23-Feb-2021,3090.0,Closed
+LN-5688,CUST-10408,Ankit Singh,Male,39,Self-Employed,86200.0,746.0,West,Pune,Education Loan,2298000.0,11.06,84,05/03/2023,39420.0,Active
+LN-5589,CUST-10023,Ritu Pillai,Female,62,Salaried,206100.0,726.0,north,Jaipur,Auto Loan,1370000.0,8.64,84,2023-08-20,21790.0,Active
+LN-5100,CUST-10113,Saanvi Chauhan,Female,23,Self-Employed,156400.0,598.0,East,Kolkata,Business Loan,1702000.0,17.69,42,2024-04-27,54640.0,Active
+LN-5568,CUST-10344,Gaurav Chauhan,Male,58,Salaried,183000.0,755.0,East,Patna,Gold Loan,301000.0,9.56,36,08/11/2023,9650.0,Active
+LN-5113,CUST-10550,Ananya Gupta,Female,47,Self-Employed,29100.0,718.0,East,Bhubaneswar,Auto Loan,1776000.0,9.92,72,2022-08-17,32830.0,Active
+LN-5106,CUST-10267,ADITYA MEHTA,Male,51,Business Owner,53400.0,654.0,East,Kolkata,Personal Loan,400000.0,,54,19/06/2022,190800.0,Active
+LN-5053,CUST-10202,Vikram Kapoor,Male,25,Business Owner,195100.0,685.0,North, LUCKNOW ,Education Loan,2054000.0,10.69,36,05-Feb-2023,66940.0,Active
+LN-5300,CUST-10423,Ananya Rao,Female,37,Salaried,205900.0,,West,Mumbai,Personal Loan,386000.0,15.1,60,27-Mar-2024,9200.0,Active
+LN-5745,CUST-10447,Krishna Joshi,Male,34,Salaried,136200.0,608.0,North,Chandigarh,Auto Loan,1471000.0,9.11,24,2021-12-30,67280.0,Closed
+LN-5681,CUST-10277,Neha Sharma,Female,41,Self-Employed,243500.0,697.0,South,Hyderabad,Education Loan,1908000.0,9.38,120,2021-07-21,24560.0,Active
+LN-5594,CUST-10128,Aditya Malhotra,Male,49,Business Owner,218100.0,690.0,East,Patna,Home Loan,8296000.0,9.25,126,21/06/2022,103150.0,Active
+LN-5682,CUST-10073,Vihaan Verma,Male,27,,202700.0,723.0,North,Jaipur,Personal Loan,381000.0,14.24,48,06/22/2023,10460.0,Active
+LN-5576,CUST-10318,Amit Das,Male,43,Self-Employed,237700.0,788.0,North,Chandigarh,Gold Loan,146000.0,7.73,18,06-May-2024,8620.0,Active
+LN-5534,CUST-10405,Aarav Bose,Male,52,Salaried,78100.0,670.0,east,Guwahati,Business Loan,1183000.0,17.94,78,06/12/2022,25790.0,Active
+LN-5029,CUST-10353,Myra Patel,Female,43,Business Owner,98900.0,670.0,North,Lucknow,Personal Loan,393000.0,12.01,12,02/07/2024,34920.0,Active
+LN-5360,CUST-10377,AADHYA VERMA,Female,44,Self-Employed,189400.0,815.0,South,Hyderabad,Home Loan,5568000.0,10.22,150,12/08/2023,65880.0,Active
+LN-5077,CUST-10503,Isha Gupta,Female,51,Salaried,86500.0,647.0,East,Kolkata,Personal Loan,219000.0,14.75,18,13/12/2024,13640.0,Closed
+LN-5285,CUST-10004,Vikram Chauhan,Male,35,Business Owner,237800.0,773.0,North,Jaipur,Personal Loan,737000.0,12.9,42,12/06/2021,21900.0,Closed
+LN-5677,CUST-10235,Sneha Reddy,Female,23,Self-Employed,234400.0,699.0,North,Chandigarh,Business Loan,4162000.0,12.24,24,2022-01-19,196390.0,Closed
+LN-5260,CUST-10103,Krishna Patel,Male,61,Self-Employed,226800.0,697.0,North,Jaipur,Auto Loan,540000.0,8.64,72,02/05/2022,9640.0,Active
+LN-5175,CUST-10133,Rahul Pillai,Male,48,Self-Employed,171400.0,677.0,North,Lucknow,Gold Loan,102000.0,9.08,36,24-Jun-2021,3250.0,Closed
+LN-5620,CUST-10315,Karan Chatterjee,Male,27,Salaried,35800.0,614.0,West,Mumbai,Personal Loan,662000.0,11.11,24,07/02/2024,30890.0,Defaulted
+LN-5514,CUST-10250,Myra Mehta,Female,46,Business Owner,57400.0,619.0,East,Bhubaneswar,Auto Loan,1731000.0,10.51,78,01/24/2021,30720.0,Active
+LN-5562,CUST-10094,Sai Pillai,Male,35,Business Owner,103400.0,706.0,West,Surat,Business Loan,386000.0,15.19,54,09-May-2024,9910.0,Active
+LN-5043,CUST-10322,Ritu Menon,Female,37,Business Owner,227000.0,695.0,East,Guwahati,Home Loan,6537000.0,10.44,216,05/12/2021,67220.0,Active
+LN-5323,CUST-10141,Aditya Malhotra,Male,30,Business Owner,44600.0,629.0,east,Bhubaneswar,Education Loan,617000.0,12.65,114,10/24/2024,9330.0,Active
+LN-5474,CUST-10570,Aditya Iyer,Male,40,Salaried,137800.0,730.0,West,Ahmedabad,Personal Loan,294000.0,14.71,24,2021-09-07,14210.0,Closed
+LN-5147,CUST-10533,Saanvi Menon,Female,61,Salaried,40000.0,699.0,West,Ahmedabad,Personal Loan,580000.0,11.2,60,2024-04-06,12670.0,Active
+ln-5635,CUST-10224,Rohan Nair,Male,45,Business Owner,51000.0,676.0,East,Patna,Personal Loan,613000.0,14.49,30,30-Jan-2022,489600.0,Closed
+LN-5397,CUST-10358,Ishaan Rao,Male,51,Self-Employed,153500.0,790.0,South,Bengaluru,Education Loan,1747000.0,12.58,60,04-Aug-2023,39380.0,Active
+LN-5615,CUST-10219,Amit Rao,Male,44,Self-Employed,209600.0,564.0,East,Patna,Auto Loan,629000.0,9.46,30,2024-03-03,23630.0,Active
+LN-5445,CUST-10055,Tanya Das,Female,58,Salaried,,659.0,south,Kochi,Education Loan,2420000.0,12.7,90,08/14/2021,41830.0,Active
+LN-5377,CUST-10054,Aarav Bose,Male,49,Business Owner,196200.0,671.0,East,Bhubaneswar,Business Loan,3236000.0,16.32,30,2023-08-23,132090.0,Active
+LN-5291,CUST-10022,Vikram Pillai,Male,31,Self-Employed,128000.0,702.0,East,Bhubaneswar,Education Loan,1775000.0,11.96,54,2023-11-25,42670.0,Active
+LN-5171,CUST-10494,Vivaan Reddy,Male,38,Business Owner,152000.0,581.0,North,Lucknow,Education Loan,2402000.0,12.09,108,06/07/2021,36590.0,Active
+LN-5414,CUST-10525,Riya Kapoor,Female,60,Business Owner,148500.0,771.0,North,Lucknow,Business Loan,1118000.0,,24,31/05/2023,55510.0,Active
+LN-5522,CUST-10073,Amit Das,Male,23,Salaried,78100.0,619.0,South,Chennai,Education Loan,735000.0,11.24,66,2024-07-21,14980.0,Active
+LN-5048,CUST-10209,Vihaan Iyer,Male,30,Self-Employed,205100.0,732.0,West, MUMBAI ,Gold Loan,213000.0,9.92,18,06/22/2021,12780.0,Closed
+LN-5631,CUST-10537,Ananya Bose,Female,59,Salaried,62000.0,607.0,East,Guwahati,Education Loan,1995000.0,11.79,114,29/07/2022,29170.0,Active
+LN-5421,CUST-10409,Simran Chauhan,Female,36,Salaried,129700.0,622.0,North,Chandigarh,Education Loan,1313000.0,9.0,114,25-Apr-2022,17180.0,Active
+LN-5512,CUST-10482,Reyansh Joshi,Male,29,Salaried,242200.0,564.0,East, GUWAHATI ,Gold Loan,396000.0,8.64,12,2023-09-18,34560.0,Closed
+LN-5510,CUST-10441,Diya Chatterjee,Female,53,Business Owner,129200.0,605.0,South,Bengaluru,Personal Loan,619000.0,12.75,48,2023-08-25,16530.0,Active
+LN-5545,CUST-10234,Rajesh Bose,Male,53,Salaried,28000.0,607.0,West,Mumbai,Personal Loan,391000.0,12.44,42,18/04/2024,11530.0,Active
+LN-5630,CUST-10243,Arjun Patel,Male,62,Business Owner,71500.0,666.0,South,Bengaluru,Gold Loan,155000.0,8.71,24,03-Jun-2021,7060.0,Closed
+LN-5723,CUST-10037,Ritu Bhat,Female,36,Self-Employed,193700.0,771.0,South,Kochi,Gold Loan,258000.0,8.12,24,16/07/2022,11680.0,Closed
+LN-5453,CUST-10568,Aadhya Das,Female,24,Self-Employed,140400.0,656.0,South, HYDERABAD ,Gold Loan,409000.0,8.32,6,04/15/2022,69830.0,Closed
+LN-5117,CUST-10567,Aarav Chauhan,Male,26,Self-Employed,185100.0,638.0,West,Surat,Home Loan,6831000.0,9.37,138,16-Sep-2024,81040.0,Active
+LN-5321,CUST-10392,Diya Chatterjee,Female,44,Salaried,64200.0,757.0,West,Surat,Home Loan,8895000.0,10.28,126,09-Sep-2023,115690.0,Active
+LN-5746,CUST-10053,Sneha Verma,Female,-28,Salaried,108100.0,561.0,West, PUNE ,Business Loan,4415000.0,13.35,12,2021-08-27,395060.0,Closed
+LN-5047,CUST-10086,Vivaan Malhotra,Male,48,Self-Employed,209700.0,797.0,South,Chennai,Personal Loan,786000.0,11.73,48,11/08/2024,20590.0,Active
+LN-5099,CUST-10023,Ritu Nair,Female,37,Salaried,168500.0,697.0,East,Guwahati,Auto Loan,569000.0,9.65,36,2023-08-25,18270.0,Active
+LN-5684,CUST-10401,Divya Bose,Female,42,Salaried,248800.0,735.0,East,Bhubaneswar,Auto Loan,1384000.0,9.93,24,03/31/2021,63820.0,Closed
+LN-5116,CUST-10552,Amit Reddy,Male,53,Business Owner,241400.0,589.0,North,Lucknow,Auto Loan,1268000.0,10.23,36,2022-10-15,41050.0,Defaulted
+LN-5586,CUST-10014,Ananya Verma,Female,55,Salaried,41700.0,768.0,North,Lucknow,Business Loan,785000.0,15.14,42,08/02/2024,24190.0,Defaulted
+LN-5257,CUST-10200,RITU MENON,Female,48,Salaried,70600.0,589.0,South,Kochi,Business Loan,1325000.0,14.59,18,2024-04-05,82400.0,Active
+LN-5717,CUST-10440,Sandeep Kapoor,Male,41,Self-Employed,161900.0,749.0,North,Delhi,Education Loan,1575000.0,12.35,36,07-May-2024,52580.0,Active
+LN-5173,CUST-10290,Sai Mehta,Male,54,Self-Employed,201700.0,643.0,South,Chennai,Education Loan,1917000.0,12.58,102,04/22/2023,30690.0,Active
+LN-5442,CUST-10105,Karan Gupta,Male,35,Business Owner,125300.0,811.0,East,Bhubaneswar,Business Loan,2454000.0,17.03,36,03/21/2023,87530.0,Active
+LN-5541,CUST-10432,Diya Verma,Female,37,Business Owner,49400.0,661.0,east,Kolkata,Business Loan,431000.0,12.23,36,2023-10-05,14360.0,Active
+LN-5384,CUST-10398,Karan Sharma,Male,58,Salaried,142500.0,792.0,South,Hyderabad,Personal Loan,328000.0,11.12,24,03/12/2021,15310.0,Closed
+LN-5030,CUST-10118,Kavya Iyer,Female,57,Salaried,44100.0,684.0,South,Chennai,Home Loan,5995000.0,8.24,156,2023-06-04,62740.0,Active
+LN-5458,CUST-10304,Sandeep Sharma,Male,62,Salaried,83700.0,659.0,West,Pune,Auto Loan,1544000.0,11.49,24,18-Aug-2023,72310.0,Active
+LN-5610,CUST-10434,Nikhil Joshi,Male,40,Salaried,78500.0,616.0,South,Hyderabad,Business Loan,1472000.0,14.27,60,05-Sep-2024,34460.0,Active
+LN-5251,CUST-10469,Vihaan Nair,Male,62,Business Owner,29000.0,595.0,East,Kolkata,Education Loan,1932000.0,12.83,96,2021-02-12,32290.0,Active
+LN-5634,CUST-10057,Vivaan Mehta,Male,43,Salaried,95900.0,641.0,North,Chandigarh,Home Loan,4986000.0,8.87,234,11/22/2021,44860.0,Active
+LN-5341,CUST-10468,Saanvi Singh,Female,46,Business Owner,72300.0,663.0,North,Delhi,Auto Loan,1412000.0,10.88,42,2021-10-03,40580.0,Active
+LN-5075,CUST-10312,Meera Bhat,Female,32,,49100.0,662.0,East,Patna,Gold Loan,469000.0,10.37,30,05/26/2022,17810.0,Closed
+LN-5245,CUST-10113,Nikhil Gupta,Male,35,Self-Employed,86100.0,750.0,South,Hyderabad,Auto Loan,847000.0,8.55,30,11/17/2021,31460.0,Closed
+LN-5690,CUST-10238,Gaurav Sharma,Male,41,Salaried,64100.0,763.0,south,Bengaluru,Education Loan,634000.0,9.47,60,2023-05-23,13310.0,Active
+LN-5556,CUST-10006,Amit Verma,Male,35,Business Owner,148400.0,656.0,North,Jaipur,Gold Loan,261000.0,7.76,36,27/09/2022,8150.0,Active
+LN-5205,CUST-10445,Karan Sharma,Male,24,Business Owner,227700.0,717.0,South,Bengaluru,Auto Loan,1341000.0,8.93,72,01/09/2022,24130.0,Active
+LN-5729,CUST-10410,Vikram Rao,Male,29,Salaried,97900.0,774.0,West,Ahmedabad,Auto Loan,1606000.0,11.07,48,2023-01-14,41560.0,Active
+LN-5303,CUST-10194,Isha Joshi,Female,37,Business Owner,123600.0,785.0,West,Surat,Business Loan,2449000.0,13.85,24,02/25/2022,117410.0,Closed
+LN-5651,CUST-10403,Nikhil Chauhan,Male,39,Salaried,230700.0,666.0,South,Bengaluru,Personal Loan,370000.0,12.6,24,09/03/2023,17520.0,Active
+LN-5230,CUST-10496,Ritu Sharma,Female,23,Salaried,201400.0,622.0,West,Pune,Personal Loan,738000.0,14.43,60,2021-02-09,17340.0,Active
+LN-5503,CUST-10257,Rohan Verma,Male,50,Self-Employed,54200.0,715.0,South,Hyderabad,Education Loan,600000.0,11.98,120,2024-03-01,8600.0,Active
+LN-5491,CUST-10550,Ananya Verma,Female,44,Salaried,101900.0,684.0,south,Kochi,Personal Loan,481000.0,11.02,24,2024-07-27,22420.0,Active
+LN-5101,CUST-10075,Manish Kapoor,Male,55,Business Owner,209300.0,583.0,south,Chennai,Gold Loan,418000.0,9.38,12,13-Mar-2023,36630.0,Closed
+LN-5280,CUST-10208,Aarav Gupta,Male,28,Salaried,208800.0,627.0,west,Ahmedabad,Gold Loan,113000.0,10.42,18,17/01/2024,6810.0,Active
+LN-5446,CUST-10454,Aditya Malhotra,Male,36,Salaried,160800.0,685.0,East,Kolkata,Personal Loan,564000.0,15.03,42,21-May-2021,17350.0,Closed
+LN-5025,CUST-10494,Aarav Chatterjee,Male,44,Self-Employed,104700.0,789.0,South,Kochi,Gold Loan,365000.0,7.28,18,03-Aug-2021,21470.0,Closed
+LN-5751,CUST-10527,Kavya Bose,Female,44,Salaried,235800.0,772.0,West,Surat,Gold Loan,251000.0,9.42,24,10/13/2022,11520.0,Closed
+LN-5613,CUST-10335,Saanvi Chatterjee,Female,35,Self-Employed,235200.0,622.0,North,Delhi,Auto Loan,591000.0,8.94,54,10-Apr-2022,13330.0,Active
+LN-5379,CUST-10218,Meera Reddy,Female,36,Business Owner,199900.0,672.0,East,Guwahati,Home Loan,6813000.0,8.86,240,07/12/2022,60690.0,Active
+LN-5020,CUST-10360,Aarav Chatterjee,Male,33,Self-Employed,206500.0,703.0,East,Guwahati,Business Loan,562000.0,16.09,72,2024-06-15,12220.0,Active
+LN-5211,CUST-10380,Divya Patel,Female,40,Business Owner,64900.0,726.0,West,Mumbai,Home Loan,4087000.0,9.48,276,06/14/2021,36440.0,Active
+LN-5305,CUST-10306,Aditya Bose,Male,54,Business Owner,86800.0,707.0,north,Chandigarh,Auto Loan,1723000.0,9.83,24,26/09/2024,79370.0,Active
+LN-5391,CUST-10016,Isha Kapoor,Female,52,Self-Employed,30500.0,669.0,North,Lucknow,Gold Loan,273000.0,9.18,24,2022-07-03,12490.0,Closed
+LN-5588,CUST-10252,AARAV SHARMA,Male,25,Business Owner,119900.0,612.0,South,Hyderabad,Auto Loan,1527000.0,11.41,36,01/29/2021,50290.0,Closed
+LN-5133,CUST-10292,Riya Sharma,Female,37,Self-Employed,149100.0,688.0,North,Chandigarh,Home Loan,6214000.0,8.43,150,07/01/2023,67150.0,Active
+LN-5549,CUST-10509,Priya Patel,Female,48,Self-Employed,154900.0,662.0,West,Surat,Auto Loan,1474000.0,11.32,66,2022-07-24,30100.0,Active
+LN-5638,CUST-10310,Anika Singh,Female,50,Self-Employed,124400.0,604.0,East,Guwahati,Business Loan,834000.0,16.14,60,2022-04-30,20340.0,Active
+LN-5051,CUST-10092,Isha Iyer,Female,43,Self-Employed,99100.0,676.0,East,Guwahati,Gold Loan,145000.0,10.13,12,2021-12-29,12760.0,Closed
+LN-5159,CUST-10065,Ankit Kapoor,Male,58,Salaried,230500.0,748.0,south,Kochi,Business Loan,1469000.0,16.24,42,23-Nov-2023,46080.0,Active
+LN-5037,CUST-10401,Ishaan Chatterjee,Male,39,Self-Employed,165700.0,720.0,North,Jaipur,Business Loan,1546000.0,14.1,60,08-Dec-2022,36050.0,Active
+LN-5727,CUST-10064,Arjun Mehta,Male,41,Salaried,53800.0,568.0,east, PATNA ,Gold Loan,131000.0,9.05,18,05/07/2023,7810.0,Closed
+LN-5564,CUST-10463,Sneha Das,Female,60,Self-Employed,246400.0,763.0,West,Ahmedabad,Personal Loan,776000.0,13.88,54,2024-04-21,19400.0,Active
+LN-5398,CUST-10140,Reyansh Gupta,Male,57,Business Owner,151200.0,654.0,West,Surat,Gold Loan,53000.0,9.72,18,01-Dec-2023,3180.0,Active
+LN-5242,CUST-10505,Kritika Joshi,Female,38,Self-Employed,150600.0,818.0,South,Kochi,Business Loan,3960000.0,12.42,54,05/09/2021,96090.0,Active
+LN-5011,CUST-10515,TANYA IYER,Female,56,Self-Employed,90600.0,657.0,north,Lucknow,Personal Loan,512000.0,12.63,30,12/29/2022,19990.0,Active
+LN-5172,CUST-10202,Ananya Mehta,Female,44,Self-Employed,61900.0,590.0,South,Hyderabad,Personal Loan,763000.0,12.76,42,02-Oct-2022,22620.0,Active
+LN-5642,CUST-10182,Manish Singh,Male,43,Business Owner,102400.0,734.0,South,Hyderabad,Personal Loan,438000.0,12.88,12,11-Oct-2024,39100.0,Active
+LN-5671,CUST-10521,Nikhil Reddy,Male,41,Salaried,192400.0,788.0,South,Hyderabad,Home Loan,2045000.0,10.22,276,2023-07-24,19270.0,Active
+LN-5241,CUST-10133,Nikhil Verma,Male,40,Salaried,174800.0,744.0,North, LUCKNOW ,Education Loan,544000.0,9.5,120,14/03/2023,7040.0,Active
+LN-5531,CUST-10096,Arjun Chatterjee,Male,55,Business Owner,135900.0,665.0,East,Kolkata,Personal Loan,635000.0,11.44,24,08-May-2021,29730.0,Closed
+LN-5072,CUST-10085,Kavya Chatterjee,Female,52,Salaried,233400.0,811.0,South, HYDERABAD ,Home Loan,2400000.0,8.1,126,25/02/2023,28340.0,Active
+LN-5530,CUST-10159,Sneha Bose,Female,53,Self-Employed,151200.0,694.0,West,Pune,Gold Loan,121000.0,8.95,6,03/30/2021,20700.0,Closed
+LN-5463,CUST-10360,Amit Das,Male,56,Business Owner,30600.0,819.0,South,Bengaluru,Education Loan,1345000.0,11.12,48,2021-05-23,34840.0,Active
+LN-5313,CUST-10286,Vihaan Pillai,Male,51,Business Owner,235400.0,689.0,West,Mumbai,Home Loan,8826000.0,8.62,216,27-Feb-2022,80570.0,Active
+LN-5606,CUST-10510,Nikhil Das,Male,60,Self-Employed,27600.0,736.0,South,Bengaluru,Business Loan,2695000.0,12.63,12,04-May-2024,240240.0,Active
+LN-5289,CUST-10461,Isha Singh,Female,23,Self-Employed,62700.0,746.0,West,Ahmedabad,Education Loan,1612000.0,11.59,78,24/10/2023,29510.0,Active
+LN-5558,CUST-10136,Sai Rao,Male,38,Self-Employed,100300.0,722.0,West,Ahmedabad,Home Loan,3429000.0,9.33,132,2024-08-11,41640.0,Active
+LN-5167,CUST-10083,Vihaan Pillai,Male,48,Salaried,113400.0,576.0,North,Lucknow,Business Loan,1680000.0,15.38,30,2022-05-03,67810.0,Closed
+LN-5435,CUST-10485,Ishaan Das,Male,32,Salaried,150000.0,771.0,South,Bengaluru,Auto Loan,408000.0,10.32,84,05/19/2021,6840.0,Active
+LN-5090,CUST-10208,Priya Nair,Female,47,Salaried,222000.0,763.0,South,Kochi,Personal Loan,710000.0,15.1,60,07-Jul-2024,16930.0,Active
+LN-5428,CUST-10233,Priya Rao,Female,51,Self-Employed,74900.0,570.0,East,Guwahati,Gold Loan,167000.0,9.71,36,09/11/2023,5370.0,Defaulted
+LN-5006,CUST-10014,Divya Chauhan,Female,38,Salaried,151400.0,784.0,east,Patna,Education Loan,2003000.0,10.93,114,11/06/2024,28320.0,Closed
+LN-5024,CUST-10036,Tanya Joshi,Female,37,Salaried,109800.0,761.0,West,Pune,Personal Loan,53000.0,14.32,36,03/26/2024,1820.0,Active
+LN-5094,CUST-10326,Arjun Patel,Male,56,Self-Employed,194500.0,764.0,North,Jaipur,Gold Loan,260000.0,7.18,12,22-Jan-2021,22520.0,Closed
+LN-5434,CUST-10040,Manish Bose,Male,27,Business Owner,249600.0,725.0,South, BENGALURU ,Gold Loan,357000.0,7.41,36,16-Dec-2023,11090.0,Active
+LN-5454,CUST-10556,NEHA RAO,Female,46,Salaried,221600.0,728.0,east,Guwahati,Gold Loan,349000.0,10.77,18,30-Jul-2024,21080.0,Active
+LN-5244,CUST-10039,Saanvi Malhotra,Female,46,Salaried,197100.0,780.0,North,Chandigarh,Auto Loan,1050000.0,10.44,72,12/03/2023,19690.0,Active
+LN-5166,CUST-10073,Aditya Bose,Male,26,Business Owner,241900.0,741.0,West,Mumbai,Auto Loan,522000.0,10.84,36,13-May-2021,17050.0,Closed
+LN-5154,CUST-10196,Sandeep Malhotra,Male,41,Business Owner,169700.0,675.0,South,Bengaluru,Home Loan,3014000.0,9.67,120,02/24/2023,39280.0,Active
+LN-5135,CUST-10034,GAURAV MENON,Male,25,Business Owner,91800.0,735.0,south,Bengaluru,Auto Loan,1008000.0,11.54,66,29-Jan-2022,20700.0,Active
+LN-5603,CUST-10128,Arjun Sharma,Male,51,Self-Employed,197200.0,797.0,North,Jaipur,Home Loan,6399000.0,10.2,174,2022-03-23,70570.0,Active
+LN-5389,CUST-10177,Sai Mehta,Male,29,Self-Employed,121500.0,685.0,East,Patna,Personal Loan,490000.0,13.25,42,2023-04-11,14640.0,Active
+LN-5123,CUST-10348,VIVAAN GUPTA,Male,58,Business Owner,239200.0,593.0,East,Guwahati,Education Loan,1837000.0,11.81,108,2024-04-26,27700.0,Active
+LN-5331,CUST-10259,Pooja Chatterjee,Female,41,Self-Employed,46000.0,634.0,South,Bengaluru,Education Loan,617000.0,12.44,42,16-Feb-2021,18190.0,Closed
+LN-5177,CUST-10134,Divya Iyer,Female,32,Self-Employed,179500.0,774.0,South,Chennai,Auto Loan,1469000.0,9.64,48,24-Dec-2021,37000.0,Active
+LN-5527,CUST-10393,Neha Mehta,Female,62,Salaried,51300.0,643.0,North,Chandigarh,Education Loan,2396000.0,11.73,48,21-Mar-2024,62780.0,Written Off
+LN-5091,CUST-10205,Myra Menon,Female,30,Business Owner,240600.0,726.0,East,Kolkata,Home Loan,4824000.0,9.4,252,2021-05-28,43940.0,Active
+LN-5041,CUST-10001,Rajesh Gupta,Male,61,Self-Employed,202300.0,810.0,East,Bhubaneswar,Business Loan,1547000.0,15.39,72,06/04/2022,33040.0,Active
+LN-5145,CUST-10161,Saanvi Malhotra,Female,34,Salaried,176900.0,696.0,east,Kolkata,Home Loan,5112000.0,8.84,192,2023-09-30,49830.0,Active
+LN-5611,CUST-10231,ANANYA MALHOTRA,Female,37,Salaried,92200.0,564.0,West,Surat,Home Loan,8562000.0,8.44,294,2024-07-22,69010.0,Active
+LN-5142,CUST-10082,Myra Rao,Female,53,Self-Employed,206200.0,708.0,West,Mumbai,Personal Loan,428000.0,15.62,48,25/08/2022,12050.0,Active
+LN-5277,CUST-10417,Gaurav Kapoor,Male,34,Self-Employed,119400.0,777.0,East,Bhubaneswar,Business Loan,351000.0,17.11,72,2023-07-16,7830.0,Active
+LN-5648,CUST-10026,Krishna Chauhan,Male,38,Salaried,107500.0,685.0,West,Surat,Home Loan,6320000.0,9.47,270,13-Oct-2023,56660.0,Active
+LN-5004,CUST-10272,Aditya Patel,Male,54,Salaried,148800.0,673.0,East,Kolkata,Gold Loan,312000.0,9.23,30,19/08/2021,11690.0,Closed
+LN-5022,CUST-10371,Krishna Bhat,Male,57,Business Owner,208400.0,745.0,South,Hyderabad,Gold Loan,83000.0,,24,03/04/2024,3720.0,Active
+LN-5188,CUST-10428,Sai Bhat,Male,23,Salaried,93300.0,593.0,North,Lucknow,Auto Loan,220000.0,10.29,54,06/09/2023,5110.0,Written Off
+LN-5625,CUST-10094,Amit Bose,Male,37,Business Owner,108100.0,601.0,West,Pune,Auto Loan,1659000.0,11.42,36,07-May-2023,54640.0,Active
+LN-5162,CUST-10460,Simran Kapoor,Female,24,Self-Employed,61800.0,607.0,West,Mumbai,Education Loan,1057000.0,10.52,42,19-Jul-2024,30190.0,Active
+LN-5483,CUST-10170,Vivaan Singh,Male,54,Self-Employed,173400.0,820.0,north,Chandigarh,Auto Loan,1458000.0,11.14,30,07/29/2022,55910.0,Active
+LN-5204,CUST-10339,Vivaan Bose,Male,24,Salaried,116300.0,620.0,east, KOLKATA ,Business Loan,4273000.0,16.25,84,04/02/2023,85480.0,Written Off
+LN-5164,CUST-10533,Vihaan Iyer,Male,61,Business Owner,167200.0,619.0,West,Surat,Gold Loan,453000.0,7.15,30,2021-01-07,16530.0,Closed
+LN-5078,CUST-10069,Nikhil Rao,Male,-61,Self-Employed,128200.0,670.0,West,Surat,Business Loan,4326000.0,17.15,66,22-Apr-2024,101680.0,Active
+LN-5673,CUST-10214,Neha Das,Female,54,Self-Employed,72700.0,640.0,North,Chandigarh,Personal Loan,237000.0,11.68,18,05/10/2023,14420.0,Written Off
+LN-5515,CUST-10177,Saanvi Das,Female,23,Self-Employed,172200.0,779.0,North,Chandigarh,Gold Loan,339000.0,9.91,36,04/02/2021,10920.0,Closed
+LN-5346,CUST-10528,Meera Sharma,Female,-49,Self-Employed,162200.0,633.0,North,Chandigarh,Personal Loan,260000.0,11.5,42,2022-11-06,7550.0,Active
+LN-5203,CUST-10411,Vikram Mehta,Male,38,Salaried,28000.0,774.0,East,Kolkata,Gold Loan,301000.0,8.08,36,09/02/2024,9440.0,Active
+LN-5148,CUST-10267,Isha Sharma,Female,29,Salaried,218900.0,753.0,North,Delhi,Gold Loan,251000.0,10.34,18,03-Jun-2024,15110.0,Active
+LN-5502,CUST-10372,Sandeep Rao,Male,50,Self-Employed,159600.0,723.0,West,Pune,Business Loan,1096000.0,16.83,36,2024-01-01,38980.0,Active
+LN-5253,CUST-10410,Riya Bhat,Female,32,Self-Employed,222900.0,633.0,West,Mumbai,Business Loan,2496000.0,15.04,18,25-Nov-2022,155760.0,Closed
+LN-5366,CUST-10012,Vivaan Patel,Male,55,Salaried,222200.0,597.0,west,Ahmedabad,Home Loan,1773000.0,8.88,228,18/10/2022,16120.0,Active
+LN-5660,CUST-10423,Anika Sharma,Female,61,Salaried,64400.0,726.0,South, CHENNAI ,Personal Loan,251000.0,12.49,60,2024-10-21,5650.0,Active
+LN-5066,CUST-10098,Ananya Nair,Female,24,Business Owner,181100.0,632.0,West, SURAT ,Auto Loan,756000.0,10.05,30,23-Oct-2021,28600.0,Closed
+LN-5726,CUST-10221,Aarav Joshi,Male,60,Self-Employed,239200.0,579.0,East,Guwahati,Auto Loan,839000.0,9.46,60,28/04/2021,17600.0,Active
+LN-5601,CUST-10341,Arjun Das,Male,31,Salaried,142000.0,630.0,South, HYDERABAD ,Education Loan,477000.0,11.72,72,30-Apr-2022,9260.0,Active
+LN-5452,CUST-10086,Simran Chauhan,Female,52,Business Owner,230400.0,784.0,East,Patna,Home Loan,4156000.0,9.14,288,10/12/2023,35670.0,Active
+LN-5225,CUST-10467,Arjun Rao,Male,43,Salaried,92800.0,794.0,South,Kochi,Education Loan,1401000.0,9.63,54,08/02/2021,32070.0,Active
+LN-5299,CUST-10157,Priya Bhat,Female,43,Business Owner,219700.0,612.0,East,Guwahati,Gold Loan,207000.0,9.5,30,13-Mar-2022,7780.0,Closed
+LN-5254,CUST-10136,Rajesh Bose,Male,48,Salaried,154100.0,,east, PATNA ,Gold Loan,127000.0,11.0,36,04/01/2022,4160.0,Active
+LN-5441,CUST-10085,Rajesh Gupta,Male,40,Salaried,37000.0,563.0,east,Guwahati,Personal Loan,242000.0,15.81,60,24/07/2022,5860.0,Active
+LN-5722,CUST-10366,Nikhil Iyer,Male,38,Business Owner,102500.0,808.0,North,Lucknow,Business Loan,4254000.0,12.78,12,2023-05-24,379520.0,Closed
+LN-5319,CUST-10288,Neha Mehta,Female,49,Self-Employed,,669.0,South,Hyderabad,Home Loan,8581000.0,8.42,120,2021-12-18,106030.0,Written Off
+LN-5412,CUST-10226,Arjun Singh,Male,57,Business Owner,180500.0,568.0,east,Kolkata,Business Loan,2996000.0,14.81,30,08-Jun-2021,120100.0,Closed
+LN-5312,CUST-10079,Pooja Kapoor,Female,26,Self-Employed,145300.0,737.0,South,,Personal Loan,270000.0,14.78,12,2022-04-19,24340.0,Closed
+LN-5721,CUST-10282,DIVYA SINGH,Female,53,Salaried,165600.0,783.0,East,Kolkata,Education Loan,1383000.0,10.74,42,07/10/2024,39650.0,Active
+ln-5659,CUST-10195,Meera Bhat,Female,24,Business Owner,140400.0,741.0,west, SURAT ,Auto Loan,1184000.0,8.56,24,01/21/2021,53850.0,Closed
+LN-5281,CUST-10301,Ishaan Sharma,Male,37,Salaried,143600.0,587.0,South,Chennai,Personal Loan,113000.0,15.45,18,2023-12-22,7070.0,Active
+LN-5686,CUST-10553,Ritu Gupta,Female,32,Salaried,234000.0,700.0,East,Kolkata,Home Loan,7540000.0,8.08,162,01/02/2022,76600.0,Active
+LN-5418,CUST-10556,Sneha Malhotra,Female,61,Business Owner,209300.0,683.0,South,Chennai,Education Loan,1957000.0,11.93,90,20-Dec-2021,33010.0,Active
+LN-5574,CUST-10092,Neha Singh,Female,31,Salaried,183400.0,744.0,West,Pune,Gold Loan,216000.0,7.15,30,28-Jun-2023,7880.0,Active
+LN-5059,CUST-10233,Sandeep Chauhan,Male,53,Salaried,237700.0,817.0,North,Lucknow,Education Loan,1002000.0,10.71,42,06-Aug-2022,28710.0,Active
+LN-5437,CUST-10439,Vivaan Nair,Male,31,Business Owner,123400.0,719.0,North,Chandigarh,Business Loan,400000.0,12.52,12,01-Dec-2022,35640.0,Closed
+LN-5590,CUST-10518,Rohan Menon,Male,55,Self-Employed,128700.0,593.0,North,Lucknow,Business Loan,2883000.0,14.15,36,2023-02-01,98740.0,Active
+LN-5150,CUST-10436,Ritu Chatterjee,Female,34,Self-Employed,245700.0,754.0,West,Ahmedabad,Business Loan,3837000.0,15.92,60,2022-02-14,93150.0,Active
+LN-5493,CUST-10500,AMIT DAS,Male,55,Salaried,136400.0,595.0,West,Surat,Business Loan,848000.0,16.78,36,10/13/2023,30140.0,Active
+LN-5734,CUST-10035,Simran Rao,Female,48,Salaried,81500.0,692.0,South,Chennai,Home Loan,7326000.0,8.47,216,05-Aug-2021,66200.0,Active
+LN-5309,CUST-10376,Krishna Pillai,Male,49,Self-Employed,197200.0,793.0,east,Patna,Auto Loan,396000.0,11.6,48,19-Jul-2022,10350.0,Active
+LN-5045,CUST-10406,Ritu Patel,Female,23,Business Owner,90700.0,752.0,East,Patna,Education Loan,733000.0,11.68,60,07/13/2024,16190.0,Active
+LN-5618,CUST-10469,Ankit Iyer,Male,28,Salaried,107100.0,620.0,east,Patna,Business Loan,1527000.0,14.25,72,07/25/2023,31670.0,Active
+LN-5733,CUST-10332,Isha Nair,Female,41,Business Owner,202000.0,778.0,south, KOCHI ,Business Loan,2896000.0,12.67,84,07/17/2024,52170.0,Active
+LN-5444,CUST-10132,Isha Rao,Female,39,Business Owner,103900.0,757.0,South,Kochi,Business Loan,2707000.0,14.19,24,09-Jul-2023,130210.0,Active
+LN-5139,CUST-10301,Rahul Sharma,Male,41,Self-Employed,170400.0,815.0,North,Delhi,Business Loan,4462000.0,17.25,48,07/22/2022,129330.0,Active
+LN-5249,CUST-10215,Amit Joshi,Male,42,Self-Employed,106100.0,744.0,East,Guwahati,Personal Loan,564000.0,11.69,54,19-Mar-2024,13480.0,Active
+LN-5207,CUST-10192,Simran Das,Female,48,Business Owner,237100.0,674.0,East,Kolkata,Personal Loan,628000.0,14.06,48,2023-01-22,17180.0,Active
+LN-5433,CUST-10034,Aarav Bhat,Male,27,Business Owner,83200.0,736.0,East,Bhubaneswar,Auto Loan,1388000.0,8.53,72,02/09/2024,24700.0,Active
+LN-5050,CUST-10271,Manish Mehta,Male,37,Business Owner,200000.0,754.0,West,Surat,Auto Loan,1625000.0,11.57,42,04-Oct-2022,47240.0,Active
+LN-5595,CUST-10565,Aadhya Iyer,Female,35,Business Owner,87600.0,714.0,West,Pune,Education Loan,1875000.0,9.71,78,08/23/2023,32510.0,Active
+LN-5732,CUST-10364,ISHA KAPOOR,Female,40,,,652.0,West,Surat,Personal Loan,496000.0,14.15,54,2024-07-16,12470.0,Active
+LN-5044,CUST-10547,Aadhya Chauhan,Female,61,Business Owner,207200.0,619.0,West,Mumbai,Auto Loan,1101000.0,8.72,72,15/12/2021,19690.0,Active
+LN-5696,CUST-10323,Aadhya Bhat,Female,52,Self-Employed,67800.0,774.0,West,Surat,Personal Loan,220000.0,14.74,60,28/01/2023,5200.0,Active
+LN-5385,CUST-10431,Anika Chatterjee,Female,43,Business Owner,246300.0,645.0,East,Bhubaneswar,Personal Loan,63000.0,13.57,54,01-Nov-2021,1570.0,Active
+LN-5220,CUST-10224,Anika Sharma,Female,32,Self-Employed,224300.0,798.0,North,,Personal Loan,623000.0,11.03,42,2021-09-11,17950.0,Active
+LN-5478,CUST-10109,Priya Nair,Female,29,Business Owner,66900.0,563.0,North,Lucknow,Auto Loan,1744000.0,10.4,30,03/20/2024,66270.0,Active
+LN-5616,CUST-10203,Simran Verma,Female,38,Salaried,74800.0,567.0,South,Bengaluru,Auto Loan,1196000.0,9.28,48,08/01/2021,29920.0,Active
+LN-5715,CUST-10225,Isha Singh,Female,49,Salaried,50500.0,759.0,East,Bhubaneswar,Education Loan,1085000.0,11.15,60,2022-03-27,23670.0,Active
+LN-5436,CUST-10424,Ananya Kapoor,Female,45,Business Owner,86900.0,685.0,West,Surat,Personal Loan,265000.0,15.89,12,19-Jan-2022,24030.0,Closed
+LN-5544,CUST-10222,Diya Iyer,Female,60,Business Owner,224400.0,648.0,North,Chandigarh,Gold Loan,306000.0,,18,2024-05-31,18240.0,Active
+LN-5653,CUST-10060,Aadhya Kapoor,Female,44,Business Owner,162000.0,778.0,west,Surat,Gold Loan,403000.0,8.35,24,06/04/2021,18290.0,Closed
+LN-5607,CUST-10464,Krishna Nair,Male,36,Business Owner,147000.0,641.0,East,Patna,Auto Loan,931000.0,10.55,48,20/04/2023,23860.0,Active
+LN-5133,CUST-10292,Riya Sharma,Female,37,Self-Employed,149100.0,688.0,North,Chandigarh,Home Loan,6214000.0,8.43,150,07/01/2023,67150.0,Active
+LN-5351,CUST-10247,DIYA VERMA,Female,25,Business Owner,37800.0,761.0,East,Patna,Auto Loan,1644000.0,9.41,30,26/02/2022,61710.0,Closed
+LN-5687,CUST-10469,Ishaan Patel,Male,48,Self-Employed,63000.0,586.0,West,Pune,Gold Loan,80000.0,8.97,12,19-May-2023,7000.0,Closed
+LN-5548,CUST-10385,DIYA NAIR,Female,25,Business Owner,96200.0,770.0,South,Bengaluru,Business Loan,3163000.0,16.24,66,22-Sep-2022,72770.0,Active
+LN-5369,CUST-10365,Myra Reddy,Female,56,Salaried,53100.0,610.0,North,Lucknow,Auto Loan,296000.0,11.44,78,09/25/2024,5400.0,Active
+LN-5055,CUST-10230,Aditya Mehta,Male,56,Self-Employed,110700.0,803.0,East,Kolkata,Auto Loan,313000.0,11.89,54,15-May-2022,7510.0,Active
+LN-5674,CUST-10297,Isha Patel,Female,59,Business Owner,237100.0,729.0,north,Lucknow,Gold Loan,399000.0,9.21,12,07/01/2023,34930.0,Closed
+LN-5348,CUST-10062,Divya Mehta,Female,38,Salaried,221000.0,791.0,South,Hyderabad,Gold Loan,52000.0,9.61,30,17/05/2023,1960.0,Active
+LN-5038,CUST-10165,Rahul Verma,Male,36,Business Owner,30700.0,574.0,South,Hyderabad,Home Loan,3937000.0,9.71,162,20/09/2021,43700.0,Active
+LN-5542,CUST-10028,Meera Chauhan,Female,25,Self-Employed,169100.0,785.0,East,Guwahati,Gold Loan,158000.0,8.53,24,2024-08-31,7180.0,Active
+LN-5296,CUST-10013,Karan Chatterjee,Male,33,Business Owner,143700.0,741.0,East,Bhubaneswar,Business Loan,3640000.0,14.29,24,27/11/2022,175270.0,Closed
+LN-5667,CUST-10493,Arjun Bhat,Male,50,Self-Employed,101200.0,623.0,East,Patna,Education Loan,1185000.0,11.88,90,04-Sep-2021,19950.0,Active
+LN-5462,CUST-10502,Aadhya Chatterjee,Female,54,Salaried,237900.0,612.0,South,Kochi,Auto Loan,788000.0,10.26,78,28-Dec-2022,13880.0,Written Off
